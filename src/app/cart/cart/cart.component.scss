@@ -1,0 +1,88 @@
+
+.navbar {
+    margin: 0;
+    background-color: #53386f;
+}
+.nav-2{
+    font-weight: 700;
+    height: 50px;
+}
+.nav-2 .fa-bookmark {
+    color: gray;
+}
+.nav-2 .btn{
+    float: right;
+    margin-right: 10px;
+    font-weight: 500;
+}
+.nav-2 .btn-1 {
+    background-color: #53386f;
+}
+.profile .fa{
+    color: wheat;
+    font-size: 50px;
+}
+
+.title {
+    font-weight: 700;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.content{
+    background-color: #f3f3f3;
+    border-bottom: 1px solid rgb(187, 187, 187);
+}
+.content ul li{
+    list-style-type:none;
+}
+.row{
+    margin: 0px;
+}
+.bar{
+    margin-top:40px;
+}
+.buttons a{
+    background-color: #53386f;
+    color: #fff;
+    border: none;
+    margin-left: 10px;
+}
+.cart-info{
+    display: flex;
+    flex-wrap: wrap;
+}
+.cart-info img{
+    width: 100px;
+    height: 80px;
+    margin-right: 10px;
+}
+.bordNone{
+    border-right: none;
+}
+.bordNone1{
+    border-left: none;
+}
+table{
+    overflow-x: hidden;
+}
+.code{
+    background-color: #53386f;
+    color: white;
+    font-size: 12px;
+    font-weight: 500;
+    border: 3px solid #53386f;
+}
+
+.data input{
+    width: 50px;
+}
+
+.buttons1 .btn-sm{
+    background-color: #53386f;
+    color: white;
+    margin-left:5px ;
+    margin-bottom:25px ;
+}
+.table button{
+    font-weight:600 ;
+}

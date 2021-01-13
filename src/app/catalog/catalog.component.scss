@@ -1,0 +1,56 @@
+nav {
+    height: 40px;
+}
+
+.container-fluid {
+    background-color: #ddd;
+    .top-row {
+        background-color: #f3f3f3;
+        border-bottom: 1px solid #ddd;
+        div {
+            div {
+                div {
+                    .uptp-btn {
+                        color: #fff;
+                    }
+                    .uptp-btn:hover {
+                        background-color: #286090;
+                        border-color: #204d74;
+                    }
+                }
+            }
+        }
+    }
+    .main-row {
+        .side-nav {
+            .card {
+                .card-body {
+                    .list-group {
+                        a {
+                            font-size: 12px;
+                            font-weight: bold;
+                            padding: 8px;
+                            background: rgba(248, 243, 255, 0.5);
+                            border: none;
+                            border-top: 1px solid #ddd;
+                        }
+                    }
+                    .side-item {
+                        .collapse {
+                            div {
+                                .collapse {
+                                    div {
+                                        .side-child-item:focus,
+                                        .side-child-item:active {
+                                            color: #ffff !important;
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

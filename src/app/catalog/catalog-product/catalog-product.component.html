@@ -1,0 +1,215 @@
+<div *ngIf="catalogue">
+    <div class="d-flex bg-white p-3">
+        <div class="mr-auto">
+            <a routerLink="/catalog/home/{{companyCode}}/{{code}}" class="clr-grey">{{catalogue.code}}</a>
+            <a routerLink="/catalog/category/{{companyCode}}/{{code}}/{{productCatalog.id}}" class="clr-grey"> | {{productCatalog.DESCRIPTIONS.TEXT.Text}}</a>
+            <a routerLink="/catalog/sub-category/{{companyCode}}/{{code}}/{{productCatalog.id}}/{{subProductCatalog.id}}" class="clr-grey"> | {{subProductCatalog.DESCRIPTIONS.TEXT.Text}}</a>
+            <span class="clr-grey"> | {{productId}}</span> 
+        </div>
+        <div>{{catalogue.code}} | 
+            <a fileSaver
+            [method]="'GET'"
+            [fileName]="'award.pdf'"
+            [url]="baseUrl+'assets/'+companyCode+'/'+code+'/awards/awards.pdf'"
+            href="javascript:;"
+            class="clr-red">
+              <i class="fa fa-circle"></i>Award
+            </a>
+        </div>
+    </div>
+    <div class="d-flex justify-content-between pt-3">
+        <ul class="nav">
+            <li class="nav-item">
+                <a class="nav-link font-weight-bold text-dark">{{singleProductData.item.LONG_DESC.TEXT.Text}} |</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link clr-grey" href="javascript:;">{{productId}} </a>
+            </li>
+        </ul>
+        <ul class="nav">
+            <li class="nav-item">
+                <a fileSaver
+                [method]="'GET'"
+                [fileName]="'price_guide.pdf'"
+                [url]="baseUrl+'assets/'+companyCode+'/'+code+'/sections/'+productCatalog.id+'/price_guide/'+subProductCatalog.id+'.pdf'"
+                class="nav-link clr-red px-0"
+                href="javascript:;">Price Product Guide</a>
+            </li>
+            <li class="nav-item">
+                <a fileSaver
+                class="nav-link text-dark"
+                [method]="'GET'"
+                [fileName]="'installation_guide.pdf'"
+                [url]="baseUrl+'assets/'+companyCode+'/'+code+'/sections/'+productCatalog.id+'/installation_guide/'+subProductCatalog.id+'.pdf'"
+                href="javascript:;">Installation Guide </a>
+            </li>
+            <li class="nav-item">
+                <a fileSaver
+                class="nav-link text-dark"
+                [method]="'GET'"
+                [fileName]="'certificates.pdf'"
+                [url]="baseUrl+'assets/'+companyCode+'/'+code+'/sections/'+productCatalog.id+'/prod_certificates/'+subProductCatalog.id+'.pdf'"
+                href="javascript:;">Certificates </a>
+            </li>
+            <li class="nav-item">
+                <a fileSaver
+                class="nav-link text-dark"
+                [method]="'GET'"
+                [fileName]="'specification.pdf'"
+                [url]="baseUrl+'assets/'+companyCode+'/'+code+'/sections/'+productCatalog.id+'/spec_guide/'+subProductCatalog.id+'.pdf'"
+                href="javascript:;">Specification </a>
+            </li>
+            <li class="nav-item">
+                <a fileSaver
+                [method]="'GET'"
+                [fileName]="'environment.pdf'"
+                [url]="baseUrl+'assets/'+companyCode+'/'+code+'/sections/'+productCatalog.id+'/env_profile/'+productCatalog.id+'.pdf'"
+                href="javascript:;"
+                class="nav-link text-success">Environment Data</a>
+            </li>
+        </ul>
+    </div>
+    <hr class="border-dark mx-3">
+    <div class="row mt-3 px-3 w-100">
+        <div class="col-4">
+            <h6>Preview</h6>
+            <hr class="border-dark">
+            <img src="{{baseUrl}}assets/{{companyCode}}/{{code}}/big_300x230_product_image/{{singleProductData.id | lowercase}}_3d.png" alt="" class="img-rounded" width="200">
+            <div class="row mt-3">
+                <div class="col-12">
+                    <h6>Others</h6>
+                    <hr class="border-dark">
+                </div>
+                <div class="col-12 col-md-6 col-lg-4 mb-3 text-center" *ngFor = "let other of subProductCatalog.TOC_ITEMS.TOC_ITEM">
+                    <a routerLink="/catalog/product/{{companyCode}}/{{code}}/{{productCatalog.id}}/{{subProductCatalog.id}}/{{other.id}}" (click) = "changeproduct(productCatalog.id,subProductCatalog.id,other.id,true)" [ngClass]="{'clr-red': other.id==selectedSingleProductId,'clr-purple': other.id!=selectedSingleProductId}" class="font-weight-bold">
+                        <img src="{{baseUrl}}assets/{{companyCode}}/{{code}}/idrop/png/{{other.id | lowercase}}_3d.png" alt="" class="img-rounded" width="100">
+                        <div class="">
+                        {{other.id}}
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="col-5">
+            <h6>Description</h6>
+            <hr class="border-dark">
+            <p>{{subProductCatalog.DESCRIPTIONS.TEXT.Text}}</p>
+            <pre class="prod-description">
+                {{singleProductData.description}}
+            </pre>
+            <h6 class="">Finishes</h6>
+            <hr class="border-dark">
+            <div class="" id="c-collapse">
+                <div *ngFor = "let grp of singleProductData.group; let i = index;" class="mb-2" >
+                  <a href="#{{grp.id}}" [ngClass]="{'clr-reds': singleProductData.finishImages[i]==undefined,'text-success': singleProductData.finishImages[i]!=undefined}" data-toggle="collapse">
+                    <i class="fa fa-caret-right"></i>
+                    {{grp.DESCRIPTIONS.TEXT.Text}}
+                    <span *ngIf="singleProductData.finishPrice[i]==undefined"> / price:0</span>
+                    <span *ngIf="singleProductData.finishPrice[i]!=undefined"> -> {{singleProductData.finishName[i]}} | {{singleProductData.finishPrice[i]}}</span>
+                  </a>
+                  <div class="collapse" id="{{grp.id}}" data-parent="#c-collapse">
+                    <div *ngFor = "let option of grp.OPTIONS.OPTION;let j = index">
+                      <a href="javascript:;" class="side-child-item p-1" [ngClass]="{'bg-purple text-white': option.name==singleProductData.finishCode[i],'clr-grey': option.name!=singleProductData.finishCode[i]}" (click) = "finish(option.id,option.name,i,option.PRICES.PRICE.Text,option.DESCRIPTIONS.TEXT.Text)">
+                        {{option.DESCRIPTIONS.TEXT.Text}}
+                      </a>
+                    </div>
+                  </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-3">
+            <h6>Finish Image</h6>
+            <hr class="border-dark">
+            <div class="d-flex flex-wrap">
+                <div *ngFor = "let grp of singleProductData.finishImages; let i = index">
+                    <img *ngIf = "singleProductData.finishImages[i] != undefined" src="{{baseUrl}}assets/{{companyCode}}/{{code}}/sections/{{productCatalog.id}}/finish_images/{{grp}}.png" class="img-rounded w-100">
+                </div>
+            </div>
+            <h6 class="mt-3">Product Code</h6>
+            <hr class="border-dark">
+            <h3 class="bg-white p-1" [ngClass]="{'clr-red': codeChk==false,'text-success': codeChk==true}">{{singleProductData.id}}<span *ngFor = "let code of singleProductData.finishCode">{{code}}</span></h3>
+            <div class="d-flex">
+                <div class="w-50 align-self-center">
+                    <h6 class="text-success">${{price}}</h6>
+                </div>
+                <div class="w-50">
+                    <div class="input-group mb-3">
+                        <div class="input-group-prepend">
+                          <span class="input-group-text">Qty</span>
+                        </div>
+                        <input type="number" min="1" class="form-control p-0" placeholder="" [formControl] = "qty" (change) = "changePrice()">
+                    </div>
+                </div>
+            </div>
+            <div class="d-flex">
+                <div class="mr-auto">
+                    <button type="button" class="btn btn-dark btn-sm mr-2 bg-purple" (click) = "addToCart()"><i class="fa fa-shopping-cart"></i> Add to Cart</button>
+                </div>
+                <div class="">
+                    <button type="button" class="btn btn-dark btn-sm mr-2 bg-purple" (click)="downloadCadDrawings()"><i class="fa fa-shopping-cart"></i> Add to AutoCAD</button>
+                </div>
+            </div>
+            <h6 class="mt-5">Download</h6>
+            <form [formGroup] = "autoCadForm">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th></th>
+                            <th>DWG</th>
+                            <th>DXF</th>
+                            <th>Revit</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>2D</td>
+                            <td>
+                                <label class="switch">
+                                    <input type="checkbox" formControlName="dwg_2d">
+                                    <span class="slider"></span>
+                                </label>
+                            </td>
+                            <td>
+                                <label class="switch">
+                                    <input type="checkbox" value="value" formControlName="dxf_2d">
+                                    <span class="slider"></span>
+                                </label>
+                            </td>
+                            <td>
+                                <label class="switch">
+                                    <input type="checkbox" formControlName="rvt_2d">
+                                    <span class="slider"></span>
+                                </label>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>3D</td>
+                            <td>
+                                <label class="switch">
+                                    <input type="checkbox" formControlName="dwg_3d">
+                                    <span class="slider"></span>
+                                </label>
+                            </td>
+                            <td>
+                                <label class="switch">
+                                    <input type="checkbox" formControlName="dxf_3d">
+                                    <span class="slider"></span>
+                                </label>
+                            </td>
+                            <td>
+                                <label class="switch">
+                                    <input type="checkbox" formControlName="rvt_3d">
+                                    <span class="slider"></span>
+                                </label>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </form>
+            <div class="text-center">
+                <button class="btn btn-dark btn-sm bg-purple" (click)="selectCadFiles()"><i class="fa fa-download"></i> Download</button>
+            </div>
+        </div>
+    </div>
+</div>
+

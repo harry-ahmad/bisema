@@ -1,0 +1,78 @@
+<div *ngIf="catalogue">
+    <div class="d-flex bg-white p-3">
+        <div class="mr-auto">
+            <a routerLink="/catalog/home/{{companyCode}}/{{code}}" class="clr-grey">{{catalogue.code}}</a>
+            <span class="clr-grey"> | {{productCatalog.DESCRIPTIONS.TEXT.Text}}</span> 
+        </div>
+        <div>{{catalogue.code}} | 
+            <a fileSaver
+            [method]="'GET'"
+            [fileName]="'award.pdf'"
+            [url]="baseUrl+'assets/'+companyCode+'/'+code+'/awards/awards.pdf'"
+            href="javascript:;"
+            class="clr-red">
+              <i class="fa fa-circle"></i>Award
+            </a>
+        </div>
+    </div>
+    <div class="d-flex justify-content-end pt-3">
+        <ul class="nav">
+            <li class="nav-item">
+                <a class="nav-link clr-grey" href="javascript:;">{{productCatalog.DESCRIPTIONS.TEXT.Text}} </a>
+            </li>
+            <!-- <li class="nav-item">
+                <a class="nav-link text-dark" href="javascript:;">Certificates </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link text-dark" href="javascript:;">Specification </a>
+            </li> -->
+            <li class="nav-item">
+                <a fileSaver
+                [method]="'GET'"
+                [fileName]="'environment.pdf'"
+                [url]="baseUrl+'assets/'+companyCode+'/'+code+'/sections/'+productCatalog.id+'/env_profile/'+productCatalog.id+'.pdf'"
+                href="javascript:;"
+                class="nav-link text-success">Environment Data</a>
+            </li>
+        </ul>
+    </div>
+    <hr class="border-dark mx-3">
+    <div class="row mt-3 px-3 w-100">
+        <div class="col-6">
+            <h6>{{catalogue.code}} Catalogue</h6>
+            <hr class="border-dark category-main-hr">
+            <div class="row mt-3 pb-3">
+                <div class="col-12 col-md-6 col-lg-3 text-center" *ngFor = "let data of catalogue.TABLE_OF_CONTENTS.LEVEL.LABEL.LEVEL.LABEL;">
+                    <a routerLink="/catalog/category/{{companyCode}}/{{code}}/{{data.id}}" (click)="changeCategory(data.id,true)" class="clr-purple font-weight-bold">
+                        <img src="{{baseUrl}}assets/{{companyCode}}/{{code}}/sections_image/{{data.id}}.png" class="img-rounded" width="100"  alt="Cinque Terre">
+                        <div>
+                        {{data.DESCRIPTIONS.TEXT.Text}}
+                        </div>
+                    </a>
+                </div>
+            </div>
+            <hr class="border-dark">
+            <h6 class="mt-3">{{catalogue.code}} Gallery</h6>
+            <div class="row">
+                <div class="col-3 mb-3" *ngFor = "let img of gallery">
+                    <img src="{{baseUrl}}assets/{{companyCode}}/{{code}}/gallery/{{img}}" class="img-rounded" width="100"  alt="Cinque Terre">
+                </div>
+            </div>
+        </div>
+        <div class="col-6">
+            <h6><a routerLink="/catalog/home/{{companyCode}}/{{code}}" class="btn btn-xs btn-primary level-up-btn"><i class="fa fa-level-up"></i></a> {{catalogue.code}} | {{productCatalog.DESCRIPTIONS.TEXT.Text}}</h6>
+            <hr class="border-dark">
+            <div class="row">
+                <div class="col-12 col-md-6 col-lg-3 mb-3 text-center" *ngFor = "let catalog of productCatalog.LEVEL.LABEL">
+                    <a routerLink="/catalog/sub-category/{{companyCode}}/{{code}}/{{productCatalog.id}}/{{catalog.id}}" (click)="sideNavigation(catalog.id)" class="clr-purple font-weight-bold">
+                        <img src="{{baseUrl}}assets/{{companyCode}}/{{code}}/sections/{{productCatalog.id}}/image/{{catalog.id}}.png" alt="" class="img-rounded" width="100">
+                        <div class="">
+                            {{catalog.DESCRIPTIONS.TEXT.Text}}
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

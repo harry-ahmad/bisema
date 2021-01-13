@@ -1,0 +1,87 @@
+/* You can add global styles to this file, and also import other style files */
+@import '~@circlon/angular-tree-component/css/angular-tree-component.css';
+body{
+    font-family: Roboto,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    background-color: #ddd;
+}
+.node-content-wrapper-active, .node-content-wrapper.node-content-wrapper-active:hover, .node-content-wrapper-active.node-content-wrapper-focused{
+    background:#53386f !important;
+    color: white !important;
+}
+.node-content-wrapper-focused {
+    background: none !important;
+}
+.container-fluid{
+    // height: 100%;
+    // position: absolute;
+    // left: 0;
+    // right: 0;
+    display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  justify-content: space-between;
+    width: 100%;
+}
+.clr-grey {
+    color: gray;
+}
+.clr-dark{
+    color: black;
+}
+.clr-purple {
+    color: #53386f;
+}
+.clr-red{
+    color: #c21a1a;
+}
+.bg-red{
+    background-color: rgb(255,217,217);
+}
+.clr-selected-product{
+    color: #b25850;
+}
+.bg-purple{
+    background-color: #53386f;
+}
+.bg-sidenav{
+    background-color: #eaeaea;
+}
+.bg-main{
+    background-color: #ede7f1;
+}
+.bg-white{
+    background-color: #ffff;
+}
+.pl-10{
+    padding-left:6rem;
+}
+.nowrap{
+    white-space: nowrap;
+}
+a.clr-red:hover{
+    color: rgb(194, 26, 26);
+}
+
+a.clr-grey:hover{
+    color: gray;
+}
+.nav-link.clr-grey:hover{
+    cursor: text;
+}
+a:hover{
+    text-decoration: none;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: Roboto,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+    line-height: 20px;
+    font-size: 18px;
+}
+a{
+    font-size: 85% !important;
+}
+a:active, a:focus, a:hover {
+    color: #db4a39 !important;
+}
