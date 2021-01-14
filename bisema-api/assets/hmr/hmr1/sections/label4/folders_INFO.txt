@@ -1,0 +1,11 @@
+
+Folders_INFO
+
+envr            = Product Environment Report
+finish_images   = Product Finish images
+image           = Product Group images
+instg           = Product installation Guide
+ppg             = Price and Product Guide
+specg           = Product specification Guide
+text            = Product describtion in text
+

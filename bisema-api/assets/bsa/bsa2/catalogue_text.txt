@@ -1,0 +1,8 @@
+KNA catalogue is a dummy kitchen catalogue that do not represent any manufacturing companies
+The product code, the images, the drawings and finishes do not match.
+
+The database schema is the same with OFDA schema. 
+Based on this, any kitchen manufacturing company can get this type of 
+catalogue presentation for their products.
+
+The BiSemA Developer team
