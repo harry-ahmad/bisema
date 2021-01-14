@@ -1,0 +1,7480 @@
+{
+	"CATALOG": {
+		"code": "BSA",
+		"day": "23",
+		"desc": "BSA - 3 CAD's BiSemA Catalogue",
+		"month": "05",
+		"version": "BSA-can-dev-5.007",
+		"year": "2018",
+		"GROUPS": {
+			"GROUP": [
+				{
+					"id": "bsak3002001",
+					"multiple": 0,
+					"name": "bsak3002001",
+					"DESCRIPTIONS": {
+						"TEXT": {
+							"lang_id": "lang0",
+							"measure_id": "meas0",
+							"Text": "BSAK Dishwasher Appliances Door Colors"
+						}
+					},
+					"OPTIONS": {
+						"OPTION": [
+							{
+								"com": 0,
+								"default": 0,
+								"id": "bsak3011",
+								"name": "K3DC1",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "White Door Color"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "bsak3012",
+								"name": "K3DC2",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Silver Door Color"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "bsak3013",
+								"name": "K3DC3",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Black Door Color"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}
+						]
+					}
+				}, {
+					"id": "bsak3002002",
+					"multiple": 0,
+					"name": "bsak3002002",
+					"DESCRIPTIONS": {
+						"TEXT": {
+							"lang_id": "lang0",
+							"measure_id": "meas0",
+							"Text": "BSAK Dishwasher Appliances Number of Doors"
+						}
+					},
+					"OPTIONS": {
+						"OPTION": [
+							{
+								"com": 0,
+								"default": 0,
+								"id": "bsak3021",
+								"name": "K3ND1",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Single Door Type"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "bsak3022",
+								"name": "K3ND2",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Double Door Type"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}
+						]
+					}
+				}, {
+					"id": "bsak4002001",
+					"multiple": 0,
+					"name": "bsak4002001",
+					"DESCRIPTIONS": {
+						"TEXT": {
+							"lang_id": "lang0",
+							"measure_id": "meas0",
+							"Text": "BSAK kitchen Exhaust Hood Shape Type"
+						}
+					},
+					"OPTIONS": {
+						"OPTION": [
+							{
+								"com": 0,
+								"default": 0,
+								"id": "bsak4011",
+								"name": "K4ST1",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Rectangle Exhaust Shape "
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "bsak4012",
+								"name": "K4ST2",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Square Exhaust Shape "
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "bsak4013",
+								"name": "K4ST3",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Circular Exhaust Shape "
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "bsak4014",
+								"name": "K4ST4",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Dome Exhaust Shape"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "bsak4015",
+								"name": "K4ST5",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Pyramid  Exhaust Shape "
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}
+						]
+					}
+				}, {
+					"id": "bsak4002002",
+					"multiple": 0,
+					"name": "bsak4002002",
+					"DESCRIPTIONS": {
+						"TEXT": {
+							"lang_id": "lang0",
+							"measure_id": "meas0",
+							"Text": "BSAK kitchen Exhaust Hood Type"
+						}
+					},
+					"OPTIONS": {
+						"OPTION": [
+							{
+								"com": 0,
+								"default": 0,
+								"id": "bsak4021",
+								"name": "K4HT1",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Stand Alone Exhaust"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "bsak4022",
+								"name": "K4HT2",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Wall Attached Exhaust"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}
+						]
+					}
+				}, {
+					"id": "bsak5002001",
+					"multiple": 0,
+					"name": "bsak5002001",
+					"DESCRIPTIONS": {
+						"TEXT": {
+							"lang_id": "lang0",
+							"measure_id": "meas0",
+							"Text": "BSAK Fridge Appliances Door Type"
+						}
+					},
+					"OPTIONS": {
+						"OPTION": [
+							{
+								"com": 0,
+								"default": 0,
+								"id": "bsak5011",
+								"name": "K5DT1",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "One Door and One Drawer Type"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "bsak5012",
+								"name": "K5DT2",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Two Doors Type"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "bsak5013",
+								"name": "K5DT3",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Two Doors and One Drawer Type"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "bsak5014",
+								"name": "K5DT4",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Two Doors and Two Drawers Type"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "bsak5015",
+								"name": "K5DT5",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Four Doors Type"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}
+						]
+					}
+				}, {
+					"id": "bsak5002002",
+					"multiple": 0,
+					"name": "bsak5002002",
+					"DESCRIPTIONS": {
+						"TEXT": {
+							"lang_id": "lang0",
+							"measure_id": "meas0",
+							"Text": "BSAK Fridge Appliances Color Type"
+						}
+					},
+					"OPTIONS": {
+						"OPTION": [
+							{
+								"com": 0,
+								"default": 0,
+								"id": "bsak5021",
+								"name": "K5CT1",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Black Color Type"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "bsak5022",
+								"name": "K5CT2",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Silver Color Type"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "bsak5023",
+								"name": "K5CT3",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "White Color Type"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}
+						]
+					}
+				}, {
+					"id": "bsak6002001",
+					"multiple": 0,
+					"name": "bsak6002001",
+					"DESCRIPTIONS": {
+						"TEXT": {
+							"lang_id": "lang0",
+							"measure_id": "meas0",
+							"Text": "BSAK kitchen Microwave"
+						}
+					},
+					"OPTIONS": {
+						"OPTION": [
+							{
+								"com": 0,
+								"default": 0,
+								"id": "bsak6011",
+								"name": "K6DT1",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Microwave Door Type 1"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "bsak6012",
+								"name": "K6DT2",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Microwave Door Type 2"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}
+						]
+					}
+				}, {
+					"id": "bsak7002001",
+					"multiple": 0,
+					"name": "bsak7002001",
+					"DESCRIPTIONS": {
+						"TEXT": {
+							"lang_id": "lang0",
+							"measure_id": "meas0",
+							"Text": "BSAK kitchen Stove Range Type"
+						}
+					},
+					"OPTIONS": {
+						"OPTION": [
+							{
+								"com": 0,
+								"default": 0,
+								"id": "bsak7011",
+								"name": "K7RT1",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Gas Stove Range"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "bsak7012",
+								"name": "K7RT2",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Electric Stove Range"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}
+						]
+					}
+				}, {
+					"id": "bsak7002002",
+					"multiple": 0,
+					"name": "bsak7002002",
+					"DESCRIPTIONS": {
+						"TEXT": {
+							"lang_id": "lang0",
+							"measure_id": "meas0",
+							"Text": "BSAK kitchen Stove Color Type"
+						}
+					},
+					"OPTIONS": {
+						"OPTION": [
+							{
+								"com": 0,
+								"default": 0,
+								"id": "bsak7021",
+								"name": "K7CT1",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Black Color Stove Type"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "bsak7022",
+								"name": "K7CT2",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Siliver Color Stove Type"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "bsak7023",
+								"name": "K7CT3",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "White Color Stove Type"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}
+						]
+					}
+				}, {
+					"id": "bsak9003001",
+					"multiple": 0,
+					"name": "bsak9003001",
+					"DESCRIPTIONS": {
+						"TEXT": {
+							"lang_id": "lang0",
+							"measure_id": "meas0",
+							"Text": "BSAK kitchen Corner Base Cabinets Door Style"
+						}
+					},
+					"OPTIONS": {
+						"OPTION": [
+							{
+								"com": 0,
+								"default": 0,
+								"id": "bsak9011",
+								"name": "K9DT1",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Corner Base Cabinets Single Door"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "bsak9012",
+								"name": "K9DT2",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Corner Base Cabinets Double Doors"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}
+						]
+					}
+				}, {
+					"id": "bsak9003002",
+					"multiple": 0,
+					"name": "bsak9003002",
+					"DESCRIPTIONS": {
+						"TEXT": {
+							"lang_id": "lang0",
+							"measure_id": "meas0",
+							"Text": "BSAK kitchen Corner Base Cabinets Finish Type"
+						}
+					},
+					"OPTIONS": {
+						"OPTION": [
+							{
+								"com": 0,
+								"default": 0,
+								"id": "bsak9021",
+								"name": "K9CF1",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Corner Base Cabinets Finish 1"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "bsak9022",
+								"name": "K9CF2",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Corner Base Cabinets Finish 2"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "bsak9023",
+								"name": "K9CF3",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Corner Base Cabinets Finish 3"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "bsak9024",
+								"name": "K9CF4",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Corner Base Cabinets Finish 4"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "bsak9025",
+								"name": "K9CF5",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Corner Base Cabinets Finish 5"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "bsak9026",
+								"name": "K9CF6",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Corner Base Cabinets Finish 6"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}
+						]
+					}
+				}, {
+					"id": "bsak1003001",
+					"multiple": 0,
+					"name": "bsak1003001",
+					"DESCRIPTIONS": {
+						"TEXT": {
+							"lang_id": "lang0",
+							"measure_id": "meas0",
+							"Text": "BSAK kitchen Corner Wall Cabinets Door Style"
+						}
+					},
+					"OPTIONS": {
+						"OPTION": [
+							{
+								"com": 0,
+								"default": 0,
+								"id": "bsak1011",
+								"name": "K10DS1",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Wall Cabinets Sliding Door Style"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "bsak1012",
+								"name": "K10DS2",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Wall Cabinets Two Door Style"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "bsak1013",
+								"name": "K10DS3",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Wall Cabinets Glass Door Style"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}
+						]
+					}
+				}, {
+					"id": "bsak1003002",
+					"multiple": 0,
+					"name": "bsak1003002",
+					"DESCRIPTIONS": {
+						"TEXT": {
+							"lang_id": "lang0",
+							"measure_id": "meas0",
+							"Text": "BSAK kitchen Corner Wall Cabinets Style"
+						}
+					},
+					"OPTIONS": {
+						"OPTION": [
+							{
+								"com": 0,
+								"default": 0,
+								"id": "bsak1021",
+								"name": "K10CS1",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Wall Cabinets With Shelf  Style"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "bsak1022",
+								"name": "K10CS2",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Wall Cabinets without Shelf  Style"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}
+						]
+					}
+				}, {
+					"id": "bsak1003003",
+					"multiple": 0,
+					"name": "bsak1003003",
+					"DESCRIPTIONS": {
+						"TEXT": {
+							"lang_id": "lang0",
+							"measure_id": "meas0",
+							"Text": "BSAK kitchen Corner Wall Cabinets Finish Style"
+						}
+					},
+					"OPTIONS": {
+						"OPTION": [
+							{
+								"com": 0,
+								"default": 0,
+								"id": "bsak1031",
+								"name": "K10CF1",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Wall Cabinets Finish Type 1"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "bsak1032",
+								"name": "K10CF2",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Wall Cabinets Finish Type 2"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "bsak1033",
+								"name": "K10CF3",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Wall Cabinets Finish Type 3"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "bsak1034",
+								"name": "K10CF4",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Wall Cabinets Finish Type 4"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "bsak1035",
+								"name": "K10CF5",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Wall Cabinets Finish Type 5"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "bsak1036",
+								"name": "K10CF6",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Wall Cabinets Finish Type 6"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "bsak1037",
+								"name": "K10CF7",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Wall Cabinets Finish Type 7"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}
+						]
+					}
+				}, {
+					"id": "bsak1103001",
+					"multiple": 0,
+					"name": "bsak1103001",
+					"DESCRIPTIONS": {
+						"TEXT": {
+							"lang_id": "lang0",
+							"measure_id": "meas0",
+							"Text": "BSAK kitchen Drawer Base Cabinets Numbers"
+						}
+					},
+					"OPTIONS": {
+						"OPTION": [
+							{
+								"com": 0,
+								"default": 0,
+								"id": "bsak1111",
+								"name": "K11ND1",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": " Two Drawer Base Cabinets"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "bsak1112",
+								"name": "K11ND2",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": " Three Drawer Base Cabinets"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "bsak1113",
+								"name": "K11ND3",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": " Four Drawer Base Cabinets"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}
+						]
+					}
+				}, {
+					"id": "bsak1103002",
+					"multiple": 0,
+					"name": "bsak1103002",
+					"DESCRIPTIONS": {
+						"TEXT": {
+							"lang_id": "lang0",
+							"measure_id": "meas0",
+							"Text": "BSAK kitchen Drawer Base Cabinets Handle Type"
+						}
+					},
+					"OPTIONS": {
+						"OPTION": [
+							{
+								"com": 0,
+								"default": 0,
+								"id": "bsak1121",
+								"name": "K11HT1",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Drawer Base Cabinets Button Handles"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "bsak1122",
+								"name": "K11HT2",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Drawer Base Cabinets Decorative Handles"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "bsak1123",
+								"name": "K11HT3",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Drawer Base Cabinets Long Handles"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "bsak1124",
+								"name": "K11HT4",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Drawer Base Cabinets Rectangle Handles"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}
+						]
+					}
+				}, {
+					"id": "bsak1103003",
+					"multiple": 0,
+					"name": "bsak1103003",
+					"DESCRIPTIONS": {
+						"TEXT": {
+							"lang_id": "lang0",
+							"measure_id": "meas0",
+							"Text": "BSAK kitchen Drawer Base Cabinets Finishes Type"
+						}
+					},
+					"OPTIONS": {
+						"OPTION": [
+							{
+								"com": 0,
+								"default": 0,
+								"id": "bsak1131",
+								"name": "K11CF1",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Drawer Base Cabinets Finish Type 1"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "bsak1132",
+								"name": "K11CF2",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Drawer Base Cabinets Finish Type 2"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "bsak1133",
+								"name": "K11CF3",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Drawer Base Cabinets Finish Type 3"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "bsak1134",
+								"name": "K11CF4",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Drawer Base Cabinets Finish Type 4"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "bsak1135",
+								"name": "K11CF5",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Drawer Base Cabinets Finish Type 5"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "bsak1136",
+								"name": "K11CF6",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Drawer Base Cabinets Finish Type 6"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "bsak1137",
+								"name": "K11CF7",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Drawer Base Cabinets Finish Type 7"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}
+						]
+					}
+				}, {
+					"id": "bsak1203001",
+					"multiple": 0,
+					"name": "bsak1203001",
+					"DESCRIPTIONS": {
+						"TEXT": {
+							"lang_id": "lang0",
+							"measure_id": "meas0",
+							"Text": "BSAK Kitchen Door Style"
+						}
+					},
+					"OPTIONS": {
+						"OPTION": [
+							{
+								"com": 0,
+								"default": 0,
+								"id": "bsak1211",
+								"name": "K12DS1",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Kitchen Door Style 1"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "bsak1212",
+								"name": "K12DS2",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Kitchen Door Style 2"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "bsak1213",
+								"name": "K12DS3",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Kitchen Door Style 3"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "bsak1214",
+								"name": "K12DS4",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Kitchen Door Style 4"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "bsak1215",
+								"name": "K12DS5",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Kitchen Door Style 5"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}
+						]
+					}
+				}, {
+					"id": "bsak1203002",
+					"multiple": 0,
+					"name": "bsak1203002",
+					"DESCRIPTIONS": {
+						"TEXT": {
+							"lang_id": "lang0",
+							"measure_id": "meas0",
+							"Text": "BSAK Kitchen Door Finishes"
+						}
+					},
+					"OPTIONS": {
+						"OPTION": [
+							{
+								"com": 0,
+								"default": 0,
+								"id": "bsak1221",
+								"name": "K12DF1",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Kitchen Door Finish Style 1"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "bsak1222",
+								"name": "K12DF2",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Kitchen Door Finish Style 2"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "bsak1223",
+								"name": "K12DF3",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Kitchen Door Finish Style 3"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "bsak1224",
+								"name": "K12DF4",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Kitchen Door Finish Style 4"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "bsak1225",
+								"name": "K12DF5",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Kitchen Door Finish Style 5"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "bsak1226",
+								"name": "K12DF6",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Kitchen Door Finish Style 6"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "bsak1227",
+								"name": "K12DF7",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Kitchen Door Finish Style 7"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "bsak1228",
+								"name": "K12DF8",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Kitchen Door Finish Style 8"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}
+						]
+					}
+				}, {
+					"id": "bsak1303001",
+					"multiple": 0,
+					"name": "bsak1303001",
+					"DESCRIPTIONS": {
+						"TEXT": {
+							"lang_id": "lang0",
+							"measure_id": "meas0",
+							"Text": "BSAK Kitchen Base Cabinets Number Of Doors"
+						}
+					},
+					"OPTIONS": {
+						"OPTION": [
+							{
+								"com": 0,
+								"default": 0,
+								"id": "bsak1311",
+								"name": "K13ND1",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": " Base Cabinets Two Doors Style"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "bsak1312",
+								"name": "K13ND2",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": " Base Cabinets Three Doors Style"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "bsak1313",
+								"name": "K13ND3",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": " Base Cabinets Four Doors Style"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "bsak1314",
+								"name": "K13ND4",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": " Base Cabinets Doors With Drawers"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}
+						]
+					}
+				}, {
+					"id": "bsak1303002",
+					"multiple": 0,
+					"name": "bsak1303002",
+					"DESCRIPTIONS": {
+						"TEXT": {
+							"lang_id": "lang0",
+							"measure_id": "meas0",
+							"Text": "BSAK Kitchen Base Cabinets Finishes"
+						}
+					},
+					"OPTIONS": {
+						"OPTION": [
+							{
+								"com": 0,
+								"default": 0,
+								"id": "bsak1321",
+								"name": "K13CF1",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Base Cabinetsr Finish Style 1"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "bsak1322",
+								"name": "K13CF2",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Base Cabinets Finish Style 2"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "bsak1323",
+								"name": "K13CF3",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Base Cabinets Finish Style 3"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "bsak1324",
+								"name": "K13CF4",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Base Cabinets Finish Style 4"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "bsak1325",
+								"name": "K13CF5",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Base Cabinets Finish Style 5"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "bsak1326",
+								"name": "K13CF6",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Base Cabinets Finish Style 6"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "bsak1327",
+								"name": "K13CF7",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Base Cabinets Finish Style 7"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "bsak1328",
+								"name": "K13CF8",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Base Cabinets  Finish Style 8"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}
+						]
+					}
+				}
+			]
+		},
+		"HEADER": {
+			"CAD_PACKAGES": {
+				"CAD_PACKAGE": {
+					"cad_code": "1",
+					"cad_id": "AUTOCAD",
+					"desc": "Auto CAD",
+					"folder": "",
+					"VIEWS": {
+						"VIEW": [
+							{
+								"Text": "2d",
+								"folder": "ACADPV00",
+								"view_code": "1",
+								"view_id": "view361"
+							}, {
+								"Text": "3D",
+								"folder": "ACADTV00",
+								"view_code": "3",
+								"view_id": "view362"
+							}, {
+								"Text": "Elevation",
+								"folder": "",
+								"view_code": "2",
+								"view_id": "view363"
+							}
+						]
+					}
+				}
+			},
+			"CURRENCIES": {
+				"CURRENCY": [
+					{
+						"Text": "Canadian Dollars",
+						"code": "2",
+						"currency_id": "curr1"
+					}, {
+						"Text": "EURO",
+						"code": "3",
+						"currency_id": "curr2"
+					}, {
+						"Text": "Israel Shekel",
+						"code": "4",
+						"currency_id": "curr3"
+					}, {
+						"Text": "US Dollars",
+						"code": "1",
+						"currency_id": "curr4"
+					}
+				]
+			},
+			"LANGUAGES": {
+				"LANGUAGE": {
+					"Text": "Neutral",
+					"intl_code": "0",
+					"lang_id": "lang0"
+				}
+			},
+			"MEASURE_SYSTEMS": {
+				"MEASURE_SYSTEM": {
+					"Text": "Imperial",
+					"measure_code": "0",
+					"measure_id": "meas0"
+				}
+			},
+			"MULTIMEDIA": null,
+			"PRICE_ZONES": {
+				"PRICE_ZONE": [
+					{
+						"Text": "List Price",
+						"currency_id": "curr4",
+						"zone_id": "zone1"
+					}, {
+						"Text": "List Price",
+						"currency_id": "curr1",
+						"zone_id": "zone2"
+					}
+				]
+			},
+			"PRODUCT_LINES": {
+				"PRODUCT_LINE": [
+					{
+						"code": "Sect \"E\"",
+						"desc": "Excluded",
+						"line_id": "line1",
+						"sector": "sector1"
+					}, {
+						"code": "Sect 02",
+						"desc": "Zones Enclosures",
+						"line_id": "line2",
+						"sector": "sector2"
+					}, {
+						"code": "Sect 04",
+						"desc": "Tables",
+						"line_id": "line3",
+						"sector": "sector3"
+					}, {
+						"code": "Sect 05",
+						"desc": "Seating - Multi-Use Seating",
+						"line_id": "line4",
+						"sector": "sector4"
+					}, {
+						"code": "Sect 06",
+						"desc": "Seating - Soft Seating",
+						"line_id": "line5",
+						"sector": "sector5"
+					}, {
+						"code": "Sect 10",
+						"desc": "Electrics & Accessories",
+						"line_id": "line6",
+						"sector": "sector6"
+					}, {
+						"code": "Sect 11",
+						"desc": "Special Component",
+						"line_id": "line7",
+						"sector": "sector7"
+					}
+				]
+			},
+			"ROUNDINGS": {
+				"ROUNDING": [
+					{
+						"Text": "Standard",
+						"code": "1",
+						"rounding_id": "round01"
+					}, {
+						"Text": "Miller UK",
+						"code": "2",
+						"rounding_id": "round02"
+					}
+				]
+			},
+			"VENDORS": {
+				"VENDOR": {
+					"code": "OFD",
+					"desc": "OFD",
+					"rounding_id": "round01",
+					"vendor_id": "vendor01"
+				}
+			}
+		},
+		"ITEMS": {
+			"ITEM": [
+				{
+					"depth": "",
+					"height": "",
+					"id": "AP201DW01",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "AP201DW01",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "ap201dw01_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "ap201dw01_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak3002001",
+								"panel": "0"
+							}, {
+								"id": "bsak3002002",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": " BSA Dishwasher Appliances Type 1",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "000848.63",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "AP201DW02",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "AP201DW02",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "ap201dw02_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "ap201dw02_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak3002001",
+								"panel": "0"
+							}, {
+								"id": "bsak3002002",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": " BSA Dishwasher Appliances Type 2",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "000938.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "AP201DW03",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "AP201DW03",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "ap201dw03_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "ap201dw03_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak3002001",
+								"panel": "0"
+							}, {
+								"id": "bsak3002002",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": " BSA Dishwasher Appliances Type 3",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "000880.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "AP201DW04",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "AP201DW04",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "ap201dw04_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "ap201dw04_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak3002001",
+								"panel": "0"
+							}, {
+								"id": "bsak3002002",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": " BSA Dishwasher Appliances Type 4",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "000790.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "AP201DW05",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "AP201DW05",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "ap201dw05_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "ap201dw05_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak3002001",
+								"panel": "0"
+							}, {
+								"id": "bsak3002002",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": " BSA Dishwasher Appliances Type 5",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "0008090.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "AP201DW06",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "AP201DW06",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "ap201dw06_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "ap201dw06_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak3002001",
+								"panel": "0"
+							}, {
+								"id": "bsak3002002",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": " BSA Dishwasher Appliances Type 6",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "000789.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "AP201DW07",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "AP201DW07",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "ap201dw07_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "ap201dw07_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak3002001",
+								"panel": "0"
+							}, {
+								"id": "bsak3002002",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": " BSA Dishwasher Appliances Type 7",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "000929.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "AP201DW08",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "AP201DW08",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "ap201dw08_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "ap201dw08_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak3002001",
+								"panel": "0"
+							}, {
+								"id": "bsak3002002",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": " BSA Dishwasher Appliances Type 8",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "000889.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "AP201DW09",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "AP201DW09",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "ap201dw09_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "ap201dw09_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak3002001",
+								"panel": "0"
+							}, {
+								"id": "bsak3002002",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": " BSA Dishwasher Appliances Type 9",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "000799.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "AP202EX01",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "AP202EX01",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "ap202ex01_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "ap202ex01_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak4002001",
+								"panel": "0"
+							}, {
+								"id": "bsak4002002",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": " BSA Kitchen Exhaust Hood Type 1",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "000399.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "AP202EX02",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "AP202EX02",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "ap202ex02_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "ap202ex02_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak4002001",
+								"panel": "0"
+							}, {
+								"id": "bsak4002002",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": " BSA Kitchen Exhaust Hood Type 2",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "000429.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "AP202EX03",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "AP202EX03",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "ap202ex03_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "ap202ex03_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak4002001",
+								"panel": "0"
+							}, {
+								"id": "bsak4002002",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": " BSA Kitchen Exhaust Hood Type 3",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "000509.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "AP202EX04",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "AP202EX04",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "ap202ex04_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "ap202ex04_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak4002001",
+								"panel": "0"
+							}, {
+								"id": "bsak4002002",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": " BSA Kitchen Exhaust Hood Type 4",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "000545.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "AP202EX05",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "AP202EX05",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "ap202ex05_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "ap202ex05_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak4002001",
+								"panel": "0"
+							}, {
+								"id": "bsak4002002",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": " BSA Kitchen Exhaust Hood Type 5",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "000395.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "AP202EX06",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "AP202EX06",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "ap202ex06_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "ap202ex06_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak4002001",
+								"panel": "0"
+							}, {
+								"id": "bsak4002002",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": " BSA Kitchen Exhaust Hood Type 6",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "000485.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "AP202EX07",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "AP202EX07",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "ap202ex07_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "ap202ex07_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak4002001",
+								"panel": "0"
+							}, {
+								"id": "bsak4002002",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": " BSA Kitchen Exhaust Hood Type 7",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "000528.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "AP202EX08",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "AP202EX08",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "ap202ex08_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "ap202ex08_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak4002001",
+								"panel": "0"
+							}, {
+								"id": "bsak4002002",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": " BSA Kitchen Exhaust Hood Type 8",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "000498.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "AP203FR01",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "AP203FR01",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "ap203fr01_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "ap203fr01_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak5002001",
+								"panel": "0"
+							}, {
+								"id": "bsak5002002",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": " BSA Fridge Appliances Type 1",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "002498.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "AP203FR02",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "AP203FR02",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "ap203fr02_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "ap203fr02_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak5002001",
+								"panel": "0"
+							}, {
+								"id": "bsak5002002",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": " BSA Fridge Appliances Type 2",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "002408.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "AP203FR03",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "AP203FR03",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "ap203fr03_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "ap203fr03_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak5002001",
+								"panel": "0"
+							}, {
+								"id": "bsak5002002",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": " BSA Fridge Appliances Type 3",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "002524.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "AP203FR04",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "AP203FR04",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "ap203fr04_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "ap203fr04_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak5002001",
+								"panel": "0"
+							}, {
+								"id": "bsak5002002",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": " BSA Fridge Appliances Type 4",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "002404.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "AP203FR05",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "AP203FR05",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "ap203fr05_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "ap203fr05_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak5002001",
+								"panel": "0"
+							}, {
+								"id": "bsak5002002",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": " BSA Fridge Appliances Type 5",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "002385.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "AP203FR06",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "AP203FR06",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "ap203fr06_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "ap203fr06_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak5002001",
+								"panel": "0"
+							}, {
+								"id": "bsak5002002",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": " BSA Fridge Appliances Type 6",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "002655.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "AP203FR07",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "AP203FR07",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "ap203fr07_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "ap203fr07_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak5002001",
+								"panel": "0"
+							}, {
+								"id": "bsak5002002",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": " BSA Fridge Appliances Type 7",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "002195.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "AP204MC01",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "AP204MC01",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "ap204mc01_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "ap204mc01_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak6002001",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "BSAK kitchen Microwave Type 1",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "000495.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "AP204MC02",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "AP204MC02",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "ap204mc02_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "ap204mc02_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak6002001",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "BSAK kitchen Microwave Type 2",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "000655.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "AP204MC03",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "AP204MC03",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "ap204mc03_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "ap204mc03_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak6002001",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "BSAK kitchen Microwave Type 3",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "000595.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "AP204MC04",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "AP204MC04",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "ap204mc04_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "ap204mc04_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak6002001",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "BSAK kitchen Microwave Type 4",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "000495.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "AP204MC05",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "AP204MC05",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "ap204mc05_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "ap204mc05_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak6002001",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "BSAK kitchen Microwave Type 5",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "000460.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "AP204MC06",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "AP204MC06",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "ap204mc06_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "ap204mc06_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak6002001",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "BSAK kitchen Microwave Type 6",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "000438.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "AP204MC07",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "AP204MC07",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "ap204mc07_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "ap204mc07_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak6002001",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "BSAK kitchen Microwave Type 7",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "000528.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "AP204MC08",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "AP204MC08",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "ap204mc08_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "ap204mc08_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak6002001",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "BSAK kitchen Microwave Type 8",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "000508.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "AP205OV01",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "AP205OV01",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "ap205ov01_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "ap205ov01_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak7002001",
+								"panel": "0"
+							}, {
+								"id": "bsak7002002",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "BSAK kitchen Stove Type 1",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "0002608.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "AP205OV02",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "AP205OV02",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "ap205ov02_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "ap205ov02_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak7002001",
+								"panel": "0"
+							}, {
+								"id": "bsak7002002",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "BSAK kitchen Stove Type 2",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "0002559.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "AP205OV03",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "AP205OV03",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "ap205ov03_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "ap205ov03_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak7002001",
+								"panel": "0"
+							}, {
+								"id": "bsak7002002",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "BSAK kitchen Stove Type 3",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "0002999.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "AP205OV04",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "AP205OV04",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "ap205ov04_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "ap205ov04_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak7002001",
+								"panel": "0"
+							}, {
+								"id": "bsak7002002",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "BSAK kitchen Stove Type 4",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "0002809.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "AP205OV05",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "AP205OV05",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "ap205ov05_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "ap205ov05_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak7002001",
+								"panel": "0"
+							}, {
+								"id": "bsak7002002",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "BSAK kitchen Stove Type 5",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "0002862.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "AP205OV06",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "AP205OV06",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "ap205ov06_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "ap205ov06_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak7002001",
+								"panel": "0"
+							}, {
+								"id": "bsak7002002",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "BSAK kitchen Stove Type 6",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "0002282.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "AP205OV07",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "AP205OV07",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "ap205ov07_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "ap205ov07_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak7002001",
+								"panel": "0"
+							}, {
+								"id": "bsak7002002",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "BSAK kitchen Stove Type 7",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "0002458.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "AP205OV08",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "AP205OV08",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "ap205ov08_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "ap205ov08_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak7002001",
+								"panel": "0"
+							}, {
+								"id": "bsak7002002",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "BSAK kitchen Stove Type 8",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "0002725.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "KT301CB01",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "KT301CB01",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "kt301cb01_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "kt301cb01_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak9003001",
+								"panel": "0"
+							}, {
+								"id": "bsak9003002",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "BSAK kitchen Corner Base Cabinets Type 1",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "0000725.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "KT301CB02",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "KT301CB02",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "kt301cb02_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "kt301cb02_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak9003001",
+								"panel": "0"
+							}, {
+								"id": "bsak9003002",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "BSAK kitchen Corner Base Cabinets Type 2",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "0000526.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "KT301CB03",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "KT301CB03",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "kt301cb03_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "kt301cb03_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak9003001",
+								"panel": "0"
+							}, {
+								"id": "bsak9003002",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "BSAK kitchen Corner Base Cabinets Type 3",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "0000706.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "KT301CB04",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "KT301CB04",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "kt301cb04_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "kt301cb04_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak9003001",
+								"panel": "0"
+							}, {
+								"id": "bsak9003002",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "BSAK kitchen Corner Base Cabinets Type 4",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "0000825.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "KT301CB05",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "KT301CB05",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "kt301cb05_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "kt301cb05_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak9003001",
+								"panel": "0"
+							}, {
+								"id": "bsak9003002",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "BSAK kitchen Corner Base Cabinets Type 5",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "0000801.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "KT301CB06",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "KT301CB06",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "kt301cb06_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "kt301cb06_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak9003001",
+								"panel": "0"
+							}, {
+								"id": "bsak9003002",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "BSAK kitchen Corner Base Cabinets Type 6",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "0000745.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "KT301CB07",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "KT301CB07",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "kt301cb07_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "kt301cb07_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak9003001",
+								"panel": "0"
+							}, {
+								"id": "bsak9003002",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "BSAK kitchen Corner Base Cabinets Type 7",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "0000799.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "KT302CW01",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "KT302CW01",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "kt302cw01_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "kt302cw01_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak1003001",
+								"panel": "0"
+							}, {
+								"id": "bsak1003002",
+								"panel": "0"
+							}, {
+								"id": "bsak1003003",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "BSAK kitchen Corner Wall Cabinets Style 1",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "0000519.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "KT302CW02",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "KT302CW02",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "kt302cw02_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "kt302cw02_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak1003001",
+								"panel": "0"
+							}, {
+								"id": "bsak1003002",
+								"panel": "0"
+							}, {
+								"id": "bsak1003003",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "BSAK kitchen Corner Wall Cabinets Style 2",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "0000689.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "KT302CW03",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "KT302CW03",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "kt302cw03_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "kt302cw03_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak1003001",
+								"panel": "0"
+							}, {
+								"id": "bsak1003002",
+								"panel": "0"
+							}, {
+								"id": "bsak1003003",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "BSAK kitchen Corner Wall Cabinets Style 3",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "0000549.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "KT302CW04",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "KT302CW04",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "kt302cw04_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "kt302cw04_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak1003001",
+								"panel": "0"
+							}, {
+								"id": "bsak1003002",
+								"panel": "0"
+							}, {
+								"id": "bsak1003003",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "BSAK kitchen Corner Wall Cabinets Style 4",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "0000566.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "KT302CW05",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "KT302CW05",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "kt302cw05_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "kt302cw05_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak1003001",
+								"panel": "0"
+							}, {
+								"id": "bsak1003002",
+								"panel": "0"
+							}, {
+								"id": "bsak1003003",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "BSAK kitchen Corner Wall Cabinets Style 5",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "0000499.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "KT302CW06",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "KT302CW06",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "kt302cw06_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "kt302cw06_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak1003001",
+								"panel": "0"
+							}, {
+								"id": "bsak1003002",
+								"panel": "0"
+							}, {
+								"id": "bsak1003003",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "BSAK kitchen Corner Wall Cabinets Style 6",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "0000619.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "KT302CW07",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "KT302CW07",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "kt302cw07_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "kt302cw07_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak1003001",
+								"panel": "0"
+							}, {
+								"id": "bsak1003002",
+								"panel": "0"
+							}, {
+								"id": "bsak1003003",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "BSAK kitchen Corner Wall Cabinets Style 7",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "0000589.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "KT302CW08",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "KT302CW08",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "kt302cw08_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "kt302cw08_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak1003001",
+								"panel": "0"
+							}, {
+								"id": "bsak1003002",
+								"panel": "0"
+							}, {
+								"id": "bsak1003003",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "BSAK kitchen Corner Wall Cabinets Style 8",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "0000659.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "KT302CW09",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "KT302CW09",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "kt302cw09_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "kt302cw09_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak1003001",
+								"panel": "0"
+							}, {
+								"id": "bsak1003002",
+								"panel": "0"
+							}, {
+								"id": "bsak1003003",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "BSAK kitchen Corner Wall Cabinets Style 9",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "0000644.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "KT303DB01",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "KT303DB01",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "kt303db01_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "kt303db01_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak1103001",
+								"panel": "0"
+							}, {
+								"id": "bsak1103002",
+								"panel": "0"
+							}, {
+								"id": "bsak1103003",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "BSAK kitchen Drawer Base Cabinets 1",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "0000324.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "KT303DB02",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "KT303DB02",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "kt303db02_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "kt303db02_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak1103001",
+								"panel": "0"
+							}, {
+								"id": "bsak1103002",
+								"panel": "0"
+							}, {
+								"id": "bsak1103003",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "BSAK kitchen Drawer Base Cabinets 2",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "0000414.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "KT303DB03",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "KT303DB03",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "kt303db03_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "kt303db03_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak1103001",
+								"panel": "0"
+							}, {
+								"id": "bsak1103002",
+								"panel": "0"
+							}, {
+								"id": "bsak1103003",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "BSAK kitchen Drawer Base Cabinets 3",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "0000435.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "KT303DB04",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "KT303DB04",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "kt303db04_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "kt303db04_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak1103001",
+								"panel": "0"
+							}, {
+								"id": "bsak1103002",
+								"panel": "0"
+							}, {
+								"id": "bsak1103003",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "BSAK kitchen Drawer Base Cabinets 4",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "0000496.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "KT303DB05",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "KT303DB05",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "kt303db05_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "kt303db05_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak1103001",
+								"panel": "0"
+							}, {
+								"id": "bsak1103002",
+								"panel": "0"
+							}, {
+								"id": "bsak1103003",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "BSAK kitchen Drawer Base Cabinets 5",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "0000408.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "KT303DB06",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "KT303DB06",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "kt303db06_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "kt303db06_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak1103001",
+								"panel": "0"
+							}, {
+								"id": "bsak1103002",
+								"panel": "0"
+							}, {
+								"id": "bsak1103003",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "BSAK kitchen Drawer Base Cabinets 6",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "0000462.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "KT303DB07",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "KT303DB07",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "kt303db07_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "kt303db07_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak1103001",
+								"panel": "0"
+							}, {
+								"id": "bsak1103002",
+								"panel": "0"
+							}, {
+								"id": "bsak1103003",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "BSAK kitchen Drawer Base Cabinets 7",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "0000502.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "KT303DB08",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "KT303DB08",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "kt303db08_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "kt303db08_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak1103001",
+								"panel": "0"
+							}, {
+								"id": "bsak1103002",
+								"panel": "0"
+							}, {
+								"id": "bsak1103003",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "BSAK kitchen Drawer Base Cabinets 8",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "0000622.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "KT304DS01",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "KT304DS01",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "kt304ds01_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "kt304ds01_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak1203001",
+								"panel": "0"
+							}, {
+								"id": "bsak1203002",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "BSAK BSAK Kitchen Door Type 1",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "0000202.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "KT304DS02",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "KT304DS02",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "kt304ds02_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "kt304ds02_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak1203001",
+								"panel": "0"
+							}, {
+								"id": "bsak1203002",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "BSAK BSAK Kitchen Door Type 2",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "0000182.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "KT304DS03",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "KT304DS03",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "kt304ds03_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "kt304ds03_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak1203001",
+								"panel": "0"
+							}, {
+								"id": "bsak1203002",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "BSAK BSAK Kitchen Door Type 3",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "0000230.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "KT304DS04",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "KT304DS04",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "kt304ds04_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "kt304ds04_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak1203001",
+								"panel": "0"
+							}, {
+								"id": "bsak1203002",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "BSAK BSAK Kitchen Door Type 4",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "0000200.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "KT304DS05",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "KT304DS05",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "kt304ds05_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "kt304ds05_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak1203001",
+								"panel": "0"
+							}, {
+								"id": "bsak1203002",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "BSAK BSAK Kitchen Door Type 5",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "0000256.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "KT304DS06",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "KT304DS06",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "kt304ds06_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "kt304ds06_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak1203001",
+								"panel": "0"
+							}, {
+								"id": "bsak1203002",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "BSAK BSAK Kitchen Door Type 6",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "0000214.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "KT304DS07",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "KT304DS07",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "kt304ds07_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "kt304ds07_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak1203001",
+								"panel": "0"
+							}, {
+								"id": "bsak1203002",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "BSAK BSAK Kitchen Door Type 7",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "0000199.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "KT304DS08",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "KT304DS08",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "kt304ds08_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "kt304ds08_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak1203001",
+								"panel": "0"
+							}, {
+								"id": "bsak1203002",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "BSAK BSAK Kitchen Door Type 8",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "0000178.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "KT304DS09",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "KT304DS09",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "kt304ds09_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "kt304ds09_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak1203001",
+								"panel": "0"
+							}, {
+								"id": "bsak1203002",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "BSAK BSAK Kitchen Door Type 9",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "0000189.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "KT304DS10",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "KT304DS10",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "kt304ds10_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "kt304ds10_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak1203001",
+								"panel": "0"
+							}, {
+								"id": "bsak1203002",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "BSAK BSAK Kitchen Door Type 10",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "0000209.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "KT305BS01",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "KT305BS01",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "kt305bs01_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "kt305bs01_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak1303001",
+								"panel": "0"
+							}, {
+								"id": "bsak1303002",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "BSAK Kitchen Base Cabinets Style 1",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "0000599.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "KT305BS02",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "KT305BS02",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "kt305bs02_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "kt305bs02_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak1303001",
+								"panel": "0"
+							}, {
+								"id": "bsak1303002",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "BSAK Kitchen Base Cabinets Style 2",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "0000620.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "KT305BS03",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "KT305BS03",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "kt305bs03_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "kt305bs03_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak1303001",
+								"panel": "0"
+							}, {
+								"id": "bsak1303002",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "BSAK Kitchen Base Cabinets Style 3",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "0000580.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "KT305BS04",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "KT305BS04",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "kt305bs04_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "kt305bs04_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak1303001",
+								"panel": "0"
+							}, {
+								"id": "bsak1303002",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "BSAK Kitchen Base Cabinets Style 4",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "0000635.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "KT305BS05",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "KT305BS05",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "kt305bs05_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "kt305bs05_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak1303001",
+								"panel": "0"
+							}, {
+								"id": "bsak1303002",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "BSAK Kitchen Base Cabinets Style 5",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "0000582.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "KT305BS06",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "KT305BS06",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "kt305bs06_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "kt305bs06_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsak1303001",
+								"panel": "0"
+							}, {
+								"id": "bsak1303002",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "BSAK Kitchen Base Cabinets Style 6",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "0000600.99",
+							"zone_id": "zone1"
+						}
+					}
+				}
+			]
+		},
+		"TABLE_OF_CONTENTS": {
+			"LEVEL": {
+				"level": "0",
+				"LABEL": {
+					"id": "label1",
+					"DESCRIPTIONS": {
+						"TEXT": {
+							"Text": "KNA",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"LEVEL": {
+						"level": "1",
+						"LABEL": [
+							{
+								"id": "label2",
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"Text": " BSA  Appliances ",
+										"lang_id": "lang0",
+										"measure_id": "meas0"
+									}
+								},
+								"LEVEL": {
+									"level": "2",
+									"LABEL": [
+										{
+											"id": "label3",
+											"DESCRIPTIONS": {
+												"TEXT": {
+													"Text": "Dishwasher Appliances",
+													"lang_id": "lang0",
+													"measure_id": "meas0"
+												}
+											},
+											"TOC_ITEMS": {
+												"TOC_ITEM": [
+													{
+														"id": "AP201DW01"
+													}, {
+														"id": "AP201DW02"
+													}, {
+														"id": "AP201DW03"
+													}, {
+														"id": "AP201DW04"
+													}, {
+														"id": "AP201DW05"
+													}, {
+														"id": "AP201DW06"
+													}, {
+														"id": "AP201DW07"
+													}, {
+														"id": "AP201DW08"
+													}, {
+														"id": "AP201DW09"
+													}
+												]
+											}
+										}, {
+											"id": "label4",
+											"DESCRIPTIONS": {
+												"TEXT": {
+													"Text": "Kitchen Exhaust",
+													"lang_id": "lang0",
+													"measure_id": "meas0"
+												}
+											},
+											"TOC_ITEMS": {
+												"TOC_ITEM": [
+													{
+														"id": "AP202EX01"
+													}, {
+														"id": "AP202EX02"
+													}, {
+														"id": "AP202EX03"
+													}, {
+														"id": "AP202EX04"
+													}, {
+														"id": "AP202EX05"
+													}, {
+														"id": "AP202EX06"
+													}, {
+														"id": "AP202EX07"
+													}, {
+														"id": "AP202EX08"
+													}
+												]
+											}
+										}, {
+											"id": "label5",
+											"DESCRIPTIONS": {
+												"TEXT": {
+													"Text": "Fridge Appliances",
+													"lang_id": "lang0",
+													"measure_id": "meas0"
+												}
+											},
+											"TOC_ITEMS": {
+												"TOC_ITEM": [
+													{
+														"id": "AP203FR01"
+													}, {
+														"id": "AP203FR02"
+													}, {
+														"id": "AP203FR03"
+													}, {
+														"id": "AP203FR04"
+													}, {
+														"id": "AP203FR05"
+													}, {
+														"id": "AP203FR06"
+													}, {
+														"id": "AP203FR07"
+													}
+												]
+											}
+										}, {
+											"id": "label6",
+											"DESCRIPTIONS": {
+												"TEXT": {
+													"Text": "Microwave Appliances",
+													"lang_id": "lang0",
+													"measure_id": "meas0"
+												}
+											},
+											"TOC_ITEMS": {
+												"TOC_ITEM": [
+													{
+														"id": "AP204MC01"
+													}, {
+														"id": "AP204MC02"
+													}, {
+														"id": "AP204MC03"
+													}, {
+														"id": "AP204MC04"
+													}, {
+														"id": "AP204MC05"
+													}, {
+														"id": "AP204MC06"
+													}, {
+														"id": "AP204MC07"
+													}, {
+														"id": "AP204MC08"
+													}
+												]
+											}
+										}, {
+											"id": "label7",
+											"DESCRIPTIONS": {
+												"TEXT": {
+													"Text": "Oven Appliances",
+													"lang_id": "lang0",
+													"measure_id": "meas0"
+												}
+											},
+											"TOC_ITEMS": {
+												"TOC_ITEM": [
+													{
+														"id": "AP205OV01"
+													}, {
+														"id": "AP205OV02"
+													}, {
+														"id": "AP205OV03"
+													}, {
+														"id": "AP205OV04"
+													}, {
+														"id": "AP205OV05"
+													}, {
+														"id": "AP205OV06"
+													}, {
+														"id": "AP205OV07"
+													}, {
+														"id": "AP205OV08"
+													}
+												]
+											}
+										}
+									]
+								}
+							}, {
+								"id": "label8",
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"Text": "BSA Kitchen Cabinets",
+										"lang_id": "lang0",
+										"measure_id": "meas0"
+									}
+								},
+								"LEVEL": {
+									"level": "2",
+									"LABEL": [
+										{
+											"id": "label9",
+											"DESCRIPTIONS": {
+												"TEXT": {
+													"Text": "Corner Base Cabinets",
+													"lang_id": "lang0",
+													"measure_id": "meas0"
+												}
+											},
+											"TOC_ITEMS": {
+												"TOC_ITEM": [
+													{
+														"id": "KT301CB01"
+													}, {
+														"id": "KT301CB02"
+													}, {
+														"id": "KT301CB03"
+													}, {
+														"id": "KT301CB04"
+													}, {
+														"id": "KT301CB05"
+													}, {
+														"id": "KT301CB06"
+													}, {
+														"id": "KT301CB07"
+													}
+												]
+											}
+										}, {
+											"id": "label10",
+											"DESCRIPTIONS": {
+												"TEXT": {
+													"Text": "Corner Wall Cabinets",
+													"lang_id": "lang0",
+													"measure_id": "meas0"
+												}
+											},
+											"TOC_ITEMS": {
+												"TOC_ITEM": [
+													{
+														"id": "KT302CW01"
+													}, {
+														"id": "KT302CW02"
+													}, {
+														"id": "KT302CW03"
+													}, {
+														"id": "KT302CW04"
+													}, {
+														"id": "KT302CW05"
+													}, {
+														"id": "KT302CW06"
+													}, {
+														"id": "KT302CW07"
+													}, {
+														"id": "KT302CW08"
+													}, {
+														"id": "KT302CW09"
+													}
+												]
+											}
+										}, {
+											"id": "label11",
+											"DESCRIPTIONS": {
+												"TEXT": {
+													"Text": "Drawer Base Cabinets",
+													"lang_id": "lang0",
+													"measure_id": "meas0"
+												}
+											},
+											"TOC_ITEMS": {
+												"TOC_ITEM": [
+													{
+														"id": "KT303DB01"
+													}, {
+														"id": "KT303DB02"
+													}, {
+														"id": "KT303DB03"
+													}, {
+														"id": "KT303DB04"
+													}, {
+														"id": "KT303DB05"
+													}, {
+														"id": "KT303DB06"
+													}, {
+														"id": "KT303DB07"
+													}, {
+														"id": "KT303DB08"
+													}
+												]
+											}
+										}, {
+											"id": "label12",
+											"DESCRIPTIONS": {
+												"TEXT": {
+													"Text": "Kittchen Door Style",
+													"lang_id": "lang0",
+													"measure_id": "meas0"
+												}
+											},
+											"TOC_ITEMS": {
+												"TOC_ITEM": [
+													{
+														"id": "KT304DS01"
+													}, {
+														"id": "KT304DS02"
+													}, {
+														"id": "KT304DS03"
+													}, {
+														"id": "KT304DS04"
+													}, {
+														"id": "KT304DS05"
+													}, {
+														"id": "KT304DS06"
+													}, {
+														"id": "KT304DS07"
+													}, {
+														"id": "KT304DS08"
+													}, {
+														"id": "KT304DS09"
+													}, {
+														"id": "KT304DS10"
+													}
+												]
+											}
+										}, {
+											"id": "label13",
+											"DESCRIPTIONS": {
+												"TEXT": {
+													"Text": "Base Cabinets",
+													"lang_id": "lang0",
+													"measure_id": "meas0"
+												}
+											},
+											"TOC_ITEMS": {
+												"TOC_ITEM": [
+													{
+														"id": "KT305BS01"
+													}, {
+														"id": "KT305BS02"
+													}, {
+														"id": "KT305BS03"
+													}, {
+														"id": "KT305BS04"
+													}, {
+														"id": "KT305BS05"
+													}, {
+														"id": "KT305BS06"
+													}
+												]
+											}
+										}
+									]
+								}
+							}
+						]
+					}
+				}
+			}
+		}
+	}
+}

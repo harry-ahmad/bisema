@@ -1,0 +1,4 @@
+FEATURES
+Oven Appliances:
+Have both electic and gas
+

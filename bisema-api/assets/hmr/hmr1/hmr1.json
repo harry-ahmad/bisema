@@ -1,0 +1,2508 @@
+{
+	"CATALOG": {
+		"code": "HMR",
+		"day": "24",
+		"desc": "Herman Miller - 3 CAD's BiSemA Catalogue",
+		"month": "04",
+		"version": "BSA-can-dev-4.023",
+		"year": "2018",
+		"GROUPS": {
+			"GROUP": [
+				{
+					"id": "bsaaer9817001",
+					"multiple": 0,
+					"name": "bsaaer9817001",
+					"DESCRIPTIONS": {
+						"TEXT": {
+							"lang_id": "lang0",
+							"measure_id": "meas0",
+							"Text": "Arm"
+						}
+					},
+					"OPTIONS": {
+						"OPTION": [
+							{
+								"com": 0,
+								"default": 0,
+								"id": "p2",
+								"name": "P",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Fixed arms"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "had3",
+								"name": "H",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Height - adjustable arms"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "aha4",
+								"name": "A",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Height adjutable plus pivot arms"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "dfa5",
+								"name": "D",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Full adjustable arms"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}
+						]
+					}
+				}, {
+					"id": "bsaaer9817002",
+					"multiple": 0,
+					"name": "bsaaer9817002",
+					"DESCRIPTIONS": {
+						"TEXT": {
+							"lang_id": "lang0",
+							"measure_id": "meas0",
+							"Text": "Armpad Upholstery"
+						}
+					},
+					"OPTIONS": {
+						"OPTION": [
+							{
+								"com": 0,
+								"default": 0,
+								"id": "wnu2",
+								"name": "W",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "No upholstered armpads"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "fla3",
+								"name": "F",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Leather armpads"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}
+						]
+					}
+				}, {
+					"id": "bsaaer9817003",
+					"multiple": 0,
+					"name": "bsaaer9817003",
+					"DESCRIPTIONS": {
+						"TEXT": {
+							"lang_id": "lang0",
+							"measure_id": "meas0",
+							"Text": "Back Support Option"
+						}
+					},
+					"OPTIONS": {
+						"OPTION": [
+							{
+								"com": 0,
+								"default": 0,
+								"id": "szs1",
+								"name": "SZS",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": " Basic back support"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": "45.00"
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "zss2",
+								"name": "ZSS ",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Posture Fit"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "aj3",
+								"name": "AJ",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Adjustable Lumbar Support"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": "20.00"
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "alp4",
+								"name": "ALP",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Adjustable Posture Fit SL"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": "50.00"
+									}
+								}
+							}
+						]
+					}
+				}, {
+					"id": "bsaaer9817004",
+					"multiple": 0,
+					"name": "bsaaer9817004",
+					"DESCRIPTIONS": {
+						"TEXT": {
+							"lang_id": "lang0",
+							"measure_id": "meas0",
+							"Text": "Frame Finish"
+						}
+					},
+					"OPTIONS": {
+						"OPTION": [
+							{
+								"com": 0,
+								"default": 0,
+								"id": "g1_233",
+								"name": "G1",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Graphite"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "crb_233",
+								"name": "CRB",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Carbon"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": "85.00"
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "vpr_233",
+								"name": "VPR",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Mineral"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": "250.00"
+									}
+								}
+							}
+						]
+					}
+				}, {
+					"id": "bsaaer9817005",
+					"multiple": 0,
+					"name": "bsaaer9817005",
+					"DESCRIPTIONS": {
+						"TEXT": {
+							"lang_id": "lang0",
+							"measure_id": "meas0",
+							"Text": "Chassis Finish"
+						}
+					},
+					"OPTIONS": {
+						"OPTION": [
+							{
+								"com": 0,
+								"default": 0,
+								"id": "g1_233",
+								"name": "G1",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Graphite"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "snc_233",
+								"name": "SNC",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Satin Carbon"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "cd_233",
+								"name": "CD",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Polished Aluminum"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": "75.00"
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "sna_233",
+								"name": "CD",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Satin Aluminum"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}
+						]
+					}
+				}, {
+					"id": "bsaaer9817006",
+					"multiple": 0,
+					"name": "bsaaer9817006",
+					"DESCRIPTIONS": {
+						"TEXT": {
+							"lang_id": "lang0",
+							"measure_id": "meas0",
+							"Text": "Base Finish"
+						}
+					},
+					"OPTIONS": {
+						"OPTION": [
+							{
+								"com": 0,
+								"default": 0,
+								"id": "g1_233",
+								"name": "G1",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Graphite"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "cd_233",
+								"name": "CD",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Polished Aluminum"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": "75.00"
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "dvp_233",
+								"name": "DVP ",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Dark Mineral"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "sna_233",
+								"name": "SNA",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Satin Aluminum"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": "150.00"
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "dcr_233",
+								"name": "DCR",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Dark Carbon"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "snc_233",
+								"name": "SNC",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Satin Carbon"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": "80.00"
+									}
+								}
+							}
+						]
+					}
+				}, {
+					"id": "bsaaer9817007",
+					"multiple": 0,
+					"name": "bsaaer9817007",
+					"DESCRIPTIONS": {
+						"TEXT": {
+							"lang_id": "lang0",
+							"measure_id": "meas0",
+							"Text": "Casters/Glides"
+						}
+					},
+					"OPTIONS": {
+						"OPTION": [
+							{
+								"com": 0,
+								"default": 0,
+								"id": "bb1",
+								"name": "BB",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "2 1/2 Hard Caster, Black Yoke, Carpet only"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "gf2",
+								"name": "GF",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "2 1/2  Glide, Hard Floors or Carpet"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "c73",
+								"name": "C7",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "2 1/2  Caster, Black Yoke, Hard Floors or Carpet"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": "40.00"
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "dc14",
+								"name": "DC1 ",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "2 1/2  Braking Caster, Black yoke, Hard Floors or Carpet with Quiet Roll Technology"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": "60.00"
+									}
+								}
+							}
+						]
+					}
+				}, {
+					"id": "bsaaer9817008",
+					"multiple": 0,
+					"name": "bsaaer9817008",
+					"DESCRIPTIONS": {
+						"TEXT": {
+							"lang_id": "lang0",
+							"measure_id": "meas0",
+							"Text": "Armpad Finish"
+						}
+					},
+					"OPTIONS": {
+						"OPTION": [
+							{
+								"com": 0,
+								"default": 0,
+								"id": "bk_233",
+								"name": "BK",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Black"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "dvp_233",
+								"name": "DVP",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Dark Mineral"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "dcr_233",
+								"name": "DCR",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Dark Carbon"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}
+						]
+					}
+				}
+			]
+		},
+		"HEADER": {
+			"CAD_PACKAGES": {
+				"CAD_PACKAGE": {
+					"cad_code": "1",
+					"cad_id": "AUTOCAD",
+					"desc": "Auto CAD",
+					"folder": "",
+					"VIEWS": {
+						"VIEW": [
+							{
+								"Text": "2d",
+								"folder": "ACADPV00",
+								"view_code": "1",
+								"view_id": "view361"
+							}, {
+								"Text": "3D",
+								"folder": "ACADTV00",
+								"view_code": "3",
+								"view_id": "view362"
+							}, {
+								"Text": "Elevation",
+								"folder": "",
+								"view_code": "2",
+								"view_id": "view363"
+							}
+						]
+					}
+				}
+			},
+			"CURRENCIES": {
+				"CURRENCY": [
+					{
+						"Text": "Canadian Dollars",
+						"code": "2",
+						"currency_id": "curr1"
+					}, {
+						"Text": "EURO",
+						"code": "3",
+						"currency_id": "curr2"
+					}, {
+						"Text": "Israel Shekel",
+						"code": "4",
+						"currency_id": "curr3"
+					}, {
+						"Text": "US Dollars",
+						"code": "1",
+						"currency_id": "curr4"
+					}
+				]
+			},
+			"LANGUAGES": {
+				"LANGUAGE": {
+					"Text": "Neutral",
+					"intl_code": "0",
+					"lang_id": "lang0"
+				}
+			},
+			"MEASURE_SYSTEMS": {
+				"MEASURE_SYSTEM": {
+					"Text": "Imperial",
+					"measure_code": "0",
+					"measure_id": "meas0"
+				}
+			},
+			"MULTIMEDIA": null,
+			"PRICE_ZONES": {
+				"PRICE_ZONE": [
+					{
+						"Text": "List Price",
+						"currency_id": "curr4",
+						"zone_id": "zone1"
+					}, {
+						"Text": "List Price",
+						"currency_id": "curr1",
+						"zone_id": "zone2"
+					}
+				]
+			},
+			"PRODUCT_LINES": {
+				"PRODUCT_LINE": [
+					{
+						"code": "Sect \"E\"",
+						"desc": "Excluded",
+						"line_id": "line1",
+						"sector": "sector1"
+					}, {
+						"code": "Sect 02",
+						"desc": "Zones Enclosures",
+						"line_id": "line2",
+						"sector": "sector2"
+					}, {
+						"code": "Sect 04",
+						"desc": "Tables",
+						"line_id": "line3",
+						"sector": "sector3"
+					}, {
+						"code": "Sect 05",
+						"desc": "Seating - Multi-Use Seating",
+						"line_id": "line4",
+						"sector": "sector4"
+					}, {
+						"code": "Sect 06",
+						"desc": "Seating - Soft Seating",
+						"line_id": "line5",
+						"sector": "sector5"
+					}, {
+						"code": "Sect 10",
+						"desc": "Electrics & Accessories",
+						"line_id": "line6",
+						"sector": "sector6"
+					}, {
+						"code": "Sect 11",
+						"desc": "Special Component",
+						"line_id": "line7",
+						"sector": "sector7"
+					}
+				]
+			},
+			"ROUNDINGS": {
+				"ROUNDING": [
+					{
+						"Text": "Standard",
+						"code": "1",
+						"rounding_id": "round01"
+					}, {
+						"Text": "Miller UK",
+						"code": "2",
+						"rounding_id": "round02"
+					}
+				]
+			},
+			"VENDORS": {
+				"VENDOR": {
+					"code": "OFD",
+					"desc": "OFD",
+					"rounding_id": "round01",
+					"vendor_id": "vendor01"
+				}
+			}
+		},
+		"ITEMS": {
+			"ITEM": [
+				{
+					"depth": "",
+					"height": "",
+					"id": "BSAAER1A11",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "BSAAER1A11",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "bsaaer1a11_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "bsaaer1a11_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsaaer9817001",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817002",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817003",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817004",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817005",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817006",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817007",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817008",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "Aeron Work Chair A-Size Low - height range Standard tilt",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "00001094.00",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "BSAAER1A12",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "BSAAER1A12",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "bsaaer1a12_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "bsaaer1a12_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsaaer9817001",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817002",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817003",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817004",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817005",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817006",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817007",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817008",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "Aeron Work Chair A-Size Low - height range  Tilt limiter",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "00001158.00",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "BSAAER1A13",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "BSAAER1A13",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "bsaaer1a13_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "bsaaer1a13_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsaaer9817001",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817002",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817003",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817004",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817005",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817006",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817007",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817008",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "Aeron Work Chair A-Size Low - height range Tilt limter & seat angle",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "00001231.00",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "BSAAER1B11",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "BSAAER1B11",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "bsaaer1b11_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "bsaaer1b11_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsaaer9817001",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817002",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817003",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817004",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817005",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817006",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817007",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817008",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "Aeron Work Chair B-Size Low - height range Standard tilt",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "00001094.00",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "BSAAER1B12",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "BSAAER1B12",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "bsaaer1b12_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "bsaaer1b12_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsaaer9817001",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817002",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817003",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817004",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817005",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817006",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817007",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817008",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "Aeron Work Chair B-Size Low - height range Tilt limiter",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "00001158.00",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "BSAAER1B13",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "BSAAER1B13",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "bsaaer1b13_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "bsaaer1b13_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsaaer9817001",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817002",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817003",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817004",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817005",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817006",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817007",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817008",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "Aeron Work Chair B-Size Low - height range Tilt limter & seat angle",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "00001231.00",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "BSAAER1B21",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "BSAAER1B21",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "bsaaer1b21_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "bsaaer1b21_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsaaer9817001",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817002",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817003",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817004",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817005",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817006",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817007",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817008",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "Aeron Work Chair B-Size Standard - height  range Standard tilt",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "00001094.00",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "BSAAER1B22",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "BSAAER1B22",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "bsaaer1b22_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "bsaaer1b22_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsaaer9817001",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817002",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817003",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817004",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817005",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817006",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817007",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817008",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "Aeron Work Chair B-Size Standard - height  range Tilt limiter",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "00001158.00",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "BSAAER1B23",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "BSAAER1B23",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "bsaaer1b23_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "bsaaer1b23_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsaaer9817001",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817002",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817003",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817004",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817005",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817006",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817007",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817008",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "Aeron Work Chair B-Size Standard - height  range Tilt limter & seat angle",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "00001231.00",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "BSAAER1B31",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "BSAAER1B31",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "bsaaer1b31_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "bsaaer1b31_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsaaer9817001",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817002",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817003",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817004",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817005",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817006",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817007",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817008",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "Aeron Work Chair B-Size High height range Standard tilt",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "00001094.00",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "BSAAER1B32",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "BSAAER1B32",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "bsaaer1b32_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "bsaaer1b32_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsaaer9817001",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817002",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817003",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817004",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817005",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817006",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817007",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817008",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "Aeron Work Chair B-Size High height range Tilt limiter",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "00001158.00",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "BSAAER1B33",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "BSAAER1B33",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "bsaaer1b33_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "bsaaer1b33_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsaaer9817001",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817002",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817003",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817004",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817005",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817006",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817007",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817008",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "Aeron Work Chair B-Size High height range Tilt limter & seat angle",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "00001231.00",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "BSAAER1C21",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "BSAAER1C21",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "bsaaer1c21_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "bsaaer1c21_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsaaer9817001",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817002",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817003",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817004",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817005",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817006",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817007",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817008",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "Aeron Work Chair C-Size Standard - height  range Standard tilt",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "00001094.00",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "BSAAER1C22",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "BSAAER1C22",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "bsaaer1c22_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "bsaaer1c22_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsaaer9817001",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817002",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817003",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817004",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817005",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817006",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817007",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817008",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "Aeron Work Chair C-Size Standard - height  range Tilt limiter",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "00001158.00",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "BSAAER1C23",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "BSAAER1C23",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "bsaaer1c23_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "bsaaer1c23_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsaaer9817001",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817002",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817003",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817004",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817005",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817006",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817007",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817008",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "Aeron Work Chair C-Size Standard - height  range Tilt limter & seat angle",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "00001231.00",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "BSAAER1C31",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "BSAAER1C31",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "bsaaer1c31_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "bsaaer1c31_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsaaer9817001",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817002",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817003",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817004",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817005",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817006",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817007",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817008",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "Aeron Work Chair C-Size High height range Standard tilt",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "00001094.00",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "BSAAER1C32",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "BSAAER1C32",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "bsaaer1c32_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "bsaaer1c32_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsaaer9817001",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817002",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817003",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817004",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817005",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817006",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817007",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817008",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "Aeron Work Chair C-Size High height range Tilt limiter",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "00001158.00",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "BSAAER1C33",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "BSAAER1C33",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "bsaaer1c33_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "bsaaer1c33_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "bsaaer9817001",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817002",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817003",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817004",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817005",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817006",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817007",
+								"panel": "0"
+							}, {
+								"id": "bsaaer9817008",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "Aeron Work Chair C-Size High height range Tilt limter & seat angle",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "00001231.00",
+							"zone_id": "zone1"
+						}
+					}
+				}
+			]
+		},
+		"TABLE_OF_CONTENTS": {
+			"LEVEL": {
+				"level": "0",
+				"LABEL": {
+					"id": "label1",
+					"DESCRIPTIONS": {
+						"TEXT": {
+							"Text": "HMR",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"LEVEL": {
+						"level": "1",
+						"LABEL": [
+							{
+								"id": "label2",
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"Text": "Aeron A - Size Work Chair",
+										"lang_id": "lang0",
+										"measure_id": "meas0"
+									}
+								},
+								"LEVEL": {
+									"level": "2",
+									"LABEL": [
+										{
+											"id": "label3",
+											"DESCRIPTIONS": {
+												"TEXT": {
+													"Text": "Aeron A - Size Low - height range Work Chair",
+													"lang_id": "lang0",
+													"measure_id": "meas0"
+												}
+											},
+											"TOC_ITEMS": {
+												"TOC_ITEM": [
+													{
+														"id": "BSAAER1A11"
+													}, {
+														"id": "BSAAER1A12"
+													}, {
+														"id": "BSAAER1A13"
+													}
+												]
+											}
+										}
+									]
+								}
+							}, {
+								"id": "label4",
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"Text": "Aeron B - Size Work Chair",
+										"lang_id": "lang0",
+										"measure_id": "meas0"
+									}
+								},
+								"LEVEL": {
+									"level": "2",
+									"LABEL": [
+										{
+											"id": "label5",
+											"DESCRIPTIONS": {
+												"TEXT": {
+													"Text": "Aeron B - Size Low - height range Work Chair",
+													"lang_id": "lang0",
+													"measure_id": "meas0"
+												}
+											},
+											"TOC_ITEMS": {
+												"TOC_ITEM": [
+													{
+														"id": "BSAAER1B11"
+													}, {
+														"id": "BSAAER1B12"
+													}, {
+														"id": "BSAAER1B13"
+													}
+												]
+											}
+										}, {
+											"id": "label6",
+											"DESCRIPTIONS": {
+												"TEXT": {
+													"Text": "Aeron B - Size Standard - height  range Work Chair",
+													"lang_id": "lang0",
+													"measure_id": "meas0"
+												}
+											},
+											"TOC_ITEMS": {
+												"TOC_ITEM": [
+													{
+														"id": "BSAAER1B21"
+													}, {
+														"id": "BSAAER1B22"
+													}, {
+														"id": "BSAAER1B23"
+													}
+												]
+											}
+										}, {
+											"id": "label7",
+											"DESCRIPTIONS": {
+												"TEXT": {
+													"Text": "Aeron B - Size High height range Work Chair",
+													"lang_id": "lang0",
+													"measure_id": "meas0"
+												}
+											},
+											"TOC_ITEMS": {
+												"TOC_ITEM": [
+													{
+														"id": "BSAAER1B31"
+													}, {
+														"id": "BSAAER1B32"
+													}, {
+														"id": "BSAAER1B33"
+													}
+												]
+											}
+										}
+									]
+								}
+							}, {
+								"id": "label8",
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"Text": "Aeron C- Size Work Chair",
+										"lang_id": "lang0",
+										"measure_id": "meas0"
+									}
+								},
+								"LEVEL": {
+									"level": "2",
+									"LABEL": [
+										{
+											"id": "label9",
+											"DESCRIPTIONS": {
+												"TEXT": {
+													"Text": "Aeron C - Size Standard - height  range Work Chair",
+													"lang_id": "lang0",
+													"measure_id": "meas0"
+												}
+											},
+											"TOC_ITEMS": {
+												"TOC_ITEM": [
+													{
+														"id": "BSAAER1C21"
+													}, {
+														"id": "BSAAER1C22"
+													}, {
+														"id": "BSAAER1C23"
+													}
+												]
+											}
+										}, {
+											"id": "label10",
+											"DESCRIPTIONS": {
+												"TEXT": {
+													"Text": "Aeron C - Size High height range Work Chair",
+													"lang_id": "lang0",
+													"measure_id": "meas0"
+												}
+											},
+											"TOC_ITEMS": {
+												"TOC_ITEM": [
+													{
+														"id": "BSAAER1C31"
+													}, {
+														"id": "BSAAER1C32"
+													}, {
+														"id": "BSAAER1C33"
+													}
+												]
+											}
+										}
+									]
+								}
+							}
+						]
+					}
+				}
+			}
+		}
+	}
+}

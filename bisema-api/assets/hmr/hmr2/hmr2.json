@@ -1,0 +1,1905 @@
+{
+	"CATALOG": {
+		"code": "SLQ",
+		"day": "24",
+		"desc": "Steelcase - 3 CAD's BiSemA Catalogue",
+		"month": "04",
+		"version": "BSA-can-dev-4.023",
+		"year": "2018",
+		"GROUPS": {
+			"GROUP": [
+				{
+					"id": "silq30005001",
+					"multiple": 0,
+					"name": "silq30005001",
+					"DESCRIPTIONS": {
+						"TEXT": {
+							"lang_id": "lang0",
+							"measure_id": "meas0",
+							"Text": "MERLE + BLACK GLOSS"
+						}
+					},
+					"OPTIONS": {
+						"OPTION": [
+							{
+								"com": 0,
+								"default": 0,
+								"id": "mbg001",
+								"name": "MP",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Merle Plastic 6527"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "mbg002",
+								"name": "BG",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Black Gloss Paint 4144"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}
+						]
+					}
+				}, {
+					"id": "silq30005002",
+					"multiple": 0,
+					"name": "silq30005002",
+					"DESCRIPTIONS": {
+						"TEXT": {
+							"lang_id": "lang0",
+							"measure_id": "meas0",
+							"Text": "SEAGULL + CARBON METALLIC"
+						}
+					},
+					"OPTIONS": {
+						"OPTION": [
+							{
+								"com": 0,
+								"default": 0,
+								"id": "scm001",
+								"name": "SP",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Seagull Plastic 6053"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "scm002",
+								"name": "CM",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Carbon Metallic Paint 7245"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}
+						]
+					}
+				}, {
+					"id": "silq30005003",
+					"multiple": 0,
+					"name": "silq30005003",
+					"DESCRIPTIONS": {
+						"TEXT": {
+							"lang_id": "lang0",
+							"measure_id": "meas0",
+							"Text": "SEAGULL + ARCTIC WHITE GLOSS"
+						}
+					},
+					"OPTIONS": {
+						"OPTION": [
+							{
+								"com": 0,
+								"default": 0,
+								"id": "scm001",
+								"name": "SP",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Seagull Plastic 6053"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "saw002",
+								"name": "AW",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Arctic White Gloss Paint 4140"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}
+						]
+					}
+				}, {
+					"id": "silq30005004",
+					"multiple": 0,
+					"name": "silq30005004",
+					"DESCRIPTIONS": {
+						"TEXT": {
+							"lang_id": "lang0",
+							"measure_id": "meas0",
+							"Text": "PLATINUM SOLID + CARBON FIBER WEAVE"
+						}
+					},
+					"OPTIONS": {
+						"OPTION": [
+							{
+								"com": 0,
+								"default": 0,
+								"id": "psm001",
+								"name": "PS",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Platinum Solid Plastic 6249"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "psc002",
+								"name": "CF",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Carbon Fiber Weave 4233"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}
+						]
+					}
+				}, {
+					"id": "silq30005005",
+					"multiple": 0,
+					"name": "silq30005005",
+					"DESCRIPTIONS": {
+						"TEXT": {
+							"lang_id": "lang0",
+							"measure_id": "meas0",
+							"Text": "PLATINUM SOLID + MERLE"
+						}
+					},
+					"OPTIONS": {
+						"OPTION": [
+							{
+								"com": 0,
+								"default": 0,
+								"id": "psm001",
+								"name": "PS",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Platinum Solid Plastic 6249"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "psm002",
+								"name": "MP",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Merle Paint 7360"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}
+						]
+					}
+				}, {
+					"id": "silq30005006",
+					"multiple": 0,
+					"name": "silq30005006",
+					"DESCRIPTIONS": {
+						"TEXT": {
+							"lang_id": "lang0",
+							"measure_id": "meas0",
+							"Text": "SEAGULL + MERLE"
+						}
+					},
+					"OPTIONS": {
+						"OPTION": [
+							{
+								"com": 0,
+								"default": 0,
+								"id": "scm001",
+								"name": "SP",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Seagull Plastic 6053"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "psm002",
+								"name": "MP",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Merle Paint 7360"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}
+						]
+					}
+				}, {
+					"id": "silq30005007",
+					"multiple": 0,
+					"name": "silq30005007",
+					"DESCRIPTIONS": {
+						"TEXT": {
+							"lang_id": "lang0",
+							"measure_id": "meas0",
+							"Text": "MERLE + CARBON FIBER WEAVE"
+						}
+					},
+					"OPTIONS": {
+						"OPTION": [
+							{
+								"com": 0,
+								"default": 0,
+								"id": "mcf001",
+								"name": "MP",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Merle Plastic 6527"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}, {
+								"com": 0,
+								"default": 0,
+								"id": "psc002",
+								"name": "CF",
+								"placeholder": 0,
+								"quickship": 0,
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"lang_id": "lang0",
+										"measure_id": "meas0",
+										"Text": "Carbon Fiber Weave 4233"
+									}
+								},
+								"PRICES": {
+									"percent": 0,
+									"PRICE": {
+										"zone_id": "zone1",
+										"Text": 0
+									}
+								}
+							}
+						]
+					}
+				}
+			]
+		},
+		"HEADER": {
+			"CAD_PACKAGES": {
+				"CAD_PACKAGE": {
+					"cad_code": "1",
+					"cad_id": "AUTOCAD",
+					"desc": "Auto CAD",
+					"folder": "",
+					"VIEWS": {
+						"VIEW": [
+							{
+								"Text": "2d",
+								"folder": "ACADPV00",
+								"view_code": "1",
+								"view_id": "view361"
+							}, {
+								"Text": "3D",
+								"folder": "ACADTV00",
+								"view_code": "3",
+								"view_id": "view362"
+							}, {
+								"Text": "Elevation",
+								"folder": "",
+								"view_code": "2",
+								"view_id": "view363"
+							}
+						]
+					}
+				}
+			},
+			"CURRENCIES": {
+				"CURRENCY": [
+					{
+						"Text": "Canadian Dollars",
+						"code": "2",
+						"currency_id": "curr1"
+					}, {
+						"Text": "EURO",
+						"code": "3",
+						"currency_id": "curr2"
+					}, {
+						"Text": "Israel Shekel",
+						"code": "4",
+						"currency_id": "curr3"
+					}, {
+						"Text": "US Dollars",
+						"code": "1",
+						"currency_id": "curr4"
+					}
+				]
+			},
+			"LANGUAGES": {
+				"LANGUAGE": {
+					"Text": "Neutral",
+					"intl_code": "0",
+					"lang_id": "lang0"
+				}
+			},
+			"MEASURE_SYSTEMS": {
+				"MEASURE_SYSTEM": {
+					"Text": "Imperial",
+					"measure_code": "0",
+					"measure_id": "meas0"
+				}
+			},
+			"MULTIMEDIA": null,
+			"PRICE_ZONES": {
+				"PRICE_ZONE": [
+					{
+						"Text": "List Price",
+						"currency_id": "curr4",
+						"zone_id": "zone1"
+					}, {
+						"Text": "List Price",
+						"currency_id": "curr1",
+						"zone_id": "zone2"
+					}
+				]
+			},
+			"PRODUCT_LINES": {
+				"PRODUCT_LINE": [
+					{
+						"code": "Sect \"E\"",
+						"desc": "Excluded",
+						"line_id": "line1",
+						"sector": "sector1"
+					}, {
+						"code": "Sect 02",
+						"desc": "Zones Enclosures",
+						"line_id": "line2",
+						"sector": "sector2"
+					}, {
+						"code": "Sect 04",
+						"desc": "Tables",
+						"line_id": "line3",
+						"sector": "sector3"
+					}, {
+						"code": "Sect 05",
+						"desc": "Seating - Multi-Use Seating",
+						"line_id": "line4",
+						"sector": "sector4"
+					}, {
+						"code": "Sect 06",
+						"desc": "Seating - Soft Seating",
+						"line_id": "line5",
+						"sector": "sector5"
+					}, {
+						"code": "Sect 10",
+						"desc": "Electrics & Accessories",
+						"line_id": "line6",
+						"sector": "sector6"
+					}, {
+						"code": "Sect 11",
+						"desc": "Special Component",
+						"line_id": "line7",
+						"sector": "sector7"
+					}
+				]
+			},
+			"ROUNDINGS": {
+				"ROUNDING": [
+					{
+						"Text": "Standard",
+						"code": "1",
+						"rounding_id": "round01"
+					}, {
+						"Text": "Miller UK",
+						"code": "2",
+						"rounding_id": "round02"
+					}
+				]
+			},
+			"VENDORS": {
+				"VENDOR": {
+					"code": "OFD",
+					"desc": "OFD",
+					"rounding_id": "round01",
+					"vendor_id": "vendor01"
+				}
+			}
+		},
+		"ITEMS": {
+			"ITEM": [
+				{
+					"depth": "",
+					"height": "",
+					"id": "SILQCRARMABG",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "SILQCRARMABG",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "silqcrarmabg_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "silqcrarmabg_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "silq30005001",
+								"panel": "0"
+							}, {
+								"id": "silq30005002",
+								"panel": "0"
+							}, {
+								"id": "silq30005003",
+								"panel": "0"
+							}, {
+								"id": "silq30005004",
+								"panel": "0"
+							}, {
+								"id": "silq30005005",
+								"panel": "0"
+							}, {
+								"id": "silq30005006",
+								"panel": "0"
+							}, {
+								"id": "silq30005007",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "SILQ CHAIR FIXED ARMS POLISHED ALUMINUM BASE GLIDES",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "0000999.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "SILQCRARMABC",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "SILQCRARMABC",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "silqcrarmabc_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "silqcrarmabc_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "silq30005001",
+								"panel": "0"
+							}, {
+								"id": "silq30005002",
+								"panel": "0"
+							}, {
+								"id": "silq30005003",
+								"panel": "0"
+							}, {
+								"id": "silq30005004",
+								"panel": "0"
+							}, {
+								"id": "silq30005005",
+								"panel": "0"
+							}, {
+								"id": "silq30005006",
+								"panel": "0"
+							}, {
+								"id": "silq30005007",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "SILQ CHAIR FIXED ARMS POLISHED ALUMINUM BASE CASTERS",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "0000999.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "SILQCRARMPBG",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "SILQCRARMPBG",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "silqcrarmpbg_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "silqcrarmpbg_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "silq30005001",
+								"panel": "0"
+							}, {
+								"id": "silq30005002",
+								"panel": "0"
+							}, {
+								"id": "silq30005003",
+								"panel": "0"
+							}, {
+								"id": "silq30005004",
+								"panel": "0"
+							}, {
+								"id": "silq30005005",
+								"panel": "0"
+							}, {
+								"id": "silq30005006",
+								"panel": "0"
+							}, {
+								"id": "silq30005007",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "SILQ CHAIR FIXED ARMS PLASTIC BASE GLIDES",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "0000999.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "SILQCRARMPBC",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "SILQCRARMPBC",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "silqcrarmpbc_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "silqcrarmpbc_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "silq30005001",
+								"panel": "0"
+							}, {
+								"id": "silq30005002",
+								"panel": "0"
+							}, {
+								"id": "silq30005003",
+								"panel": "0"
+							}, {
+								"id": "silq30005004",
+								"panel": "0"
+							}, {
+								"id": "silq30005005",
+								"panel": "0"
+							}, {
+								"id": "silq30005006",
+								"panel": "0"
+							}, {
+								"id": "silq30005007",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "SILQ CHAIR FIXED ARMS PLASTIC BASE CASTERS",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "0000999.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "SILQCRLSSABG",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "SILQCRLSSABG",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "silqcrlssabg_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "silqcrlssabg_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "silq30005001",
+								"panel": "0"
+							}, {
+								"id": "silq30005002",
+								"panel": "0"
+							}, {
+								"id": "silq30005003",
+								"panel": "0"
+							}, {
+								"id": "silq30005004",
+								"panel": "0"
+							}, {
+								"id": "silq30005005",
+								"panel": "0"
+							}, {
+								"id": "silq30005006",
+								"panel": "0"
+							}, {
+								"id": "silq30005007",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "SILQ CHAIR ARMLESS POLISHED ALUMINUM BASE GLIDES",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "0000999.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "SILQCRLSSABC",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "SILQCRLSSABC",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "silqcrlssabc_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "silqcrlssabc_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "silq30005001",
+								"panel": "0"
+							}, {
+								"id": "silq30005002",
+								"panel": "0"
+							}, {
+								"id": "silq30005003",
+								"panel": "0"
+							}, {
+								"id": "silq30005004",
+								"panel": "0"
+							}, {
+								"id": "silq30005005",
+								"panel": "0"
+							}, {
+								"id": "silq30005006",
+								"panel": "0"
+							}, {
+								"id": "silq30005007",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "SILQ CHAIR ARMLESS POLISHED ALUMINUM BASE CASTERS",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "0000999.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "SILQCRLSSPBG",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "SILQCRLSSPBG",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "silqcrlsspbg_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "silqcrlsspbg_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "silq30005001",
+								"panel": "0"
+							}, {
+								"id": "silq30005002",
+								"panel": "0"
+							}, {
+								"id": "silq30005003",
+								"panel": "0"
+							}, {
+								"id": "silq30005004",
+								"panel": "0"
+							}, {
+								"id": "silq30005005",
+								"panel": "0"
+							}, {
+								"id": "silq30005006",
+								"panel": "0"
+							}, {
+								"id": "silq30005007",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "SILQ CHAIR ARMLESS PLASTIC BASE GLIDES",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "0000999.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "SILQCRLSSPBC",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "SILQCRLSSPBC",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "silqcrlsspbc_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "silqcrlsspbc_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "silq30005001",
+								"panel": "0"
+							}, {
+								"id": "silq30005002",
+								"panel": "0"
+							}, {
+								"id": "silq30005003",
+								"panel": "0"
+							}, {
+								"id": "silq30005004",
+								"panel": "0"
+							}, {
+								"id": "silq30005005",
+								"panel": "0"
+							}, {
+								"id": "silq30005006",
+								"panel": "0"
+							}, {
+								"id": "silq30005007",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "SILQ CHAIR ARMLESS PLASTIC BASE CASTERS",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "0000999.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "SILQSTARMABG",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "SILQSTARMABG",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "silqstarmabg_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "silqstarmabg_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "silq30005001",
+								"panel": "0"
+							}, {
+								"id": "silq30005002",
+								"panel": "0"
+							}, {
+								"id": "silq30005003",
+								"panel": "0"
+							}, {
+								"id": "silq30005004",
+								"panel": "0"
+							}, {
+								"id": "silq30005005",
+								"panel": "0"
+							}, {
+								"id": "silq30005006",
+								"panel": "0"
+							}, {
+								"id": "silq30005007",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "SILQ STOOL FIXED ARMS POLISHED ALUMINUM BASE GLIDES",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "0000999.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "SILQSTARMABC",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "SILQSTARMABC",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "silqstarmabc_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "silqstarmabc_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "silq30005001",
+								"panel": "0"
+							}, {
+								"id": "silq30005002",
+								"panel": "0"
+							}, {
+								"id": "silq30005003",
+								"panel": "0"
+							}, {
+								"id": "silq30005004",
+								"panel": "0"
+							}, {
+								"id": "silq30005005",
+								"panel": "0"
+							}, {
+								"id": "silq30005006",
+								"panel": "0"
+							}, {
+								"id": "silq30005007",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "SILQ STOOL FIXED ARMS POLISHED ALUMINUM BASE CASTERS",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "0000999.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "SILQSTARMPBG",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "SILQSTARMPBG",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "silqstarmpbg_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "silqstarmpbg_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "silq30005001",
+								"panel": "0"
+							}, {
+								"id": "silq30005002",
+								"panel": "0"
+							}, {
+								"id": "silq30005003",
+								"panel": "0"
+							}, {
+								"id": "silq30005004",
+								"panel": "0"
+							}, {
+								"id": "silq30005005",
+								"panel": "0"
+							}, {
+								"id": "silq30005006",
+								"panel": "0"
+							}, {
+								"id": "silq30005007",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "SILQ STOOL FIXED ARMS PLASTIC BASE GLIDES",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "0000999.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "SILQSTARMPBC",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "SILQSTARMPBC",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "silqstarmpbc_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "silqstarmpbc_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "silq30005001",
+								"panel": "0"
+							}, {
+								"id": "silq30005002",
+								"panel": "0"
+							}, {
+								"id": "silq30005003",
+								"panel": "0"
+							}, {
+								"id": "silq30005004",
+								"panel": "0"
+							}, {
+								"id": "silq30005005",
+								"panel": "0"
+							}, {
+								"id": "silq30005006",
+								"panel": "0"
+							}, {
+								"id": "silq30005007",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "SILQ STOOL FIXED ARMS PLASTIC BASE CASTERS",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "0000999.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "SILQSTLSSABG",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "SILQSTLSSABG",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "silqstlssabg_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "silqstlssabg_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "silq30005001",
+								"panel": "0"
+							}, {
+								"id": "silq30005002",
+								"panel": "0"
+							}, {
+								"id": "silq30005003",
+								"panel": "0"
+							}, {
+								"id": "silq30005004",
+								"panel": "0"
+							}, {
+								"id": "silq30005005",
+								"panel": "0"
+							}, {
+								"id": "silq30005006",
+								"panel": "0"
+							}, {
+								"id": "silq30005007",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "SILQ STOOL ARMLESS POLISHED ALUMINUM BASE GLIDES",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "0000999.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "SILQSTLSSABC",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "SILQSTLSSABC",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "silqstlssabc_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "silqstlssabc_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "silq30005001",
+								"panel": "0"
+							}, {
+								"id": "silq30005002",
+								"panel": "0"
+							}, {
+								"id": "silq30005003",
+								"panel": "0"
+							}, {
+								"id": "silq30005004",
+								"panel": "0"
+							}, {
+								"id": "silq30005005",
+								"panel": "0"
+							}, {
+								"id": "silq30005006",
+								"panel": "0"
+							}, {
+								"id": "silq30005007",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "SILQ STOOL ARMLESS POLISHED ALUMINUM BASE CASTERS",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "0000999.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "SILQSTLSSPBG",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "SILQSTLSSPBG",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "silqstlsspbg_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "silqstlsspbg_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "silq30005001",
+								"panel": "0"
+							}, {
+								"id": "silq30005002",
+								"panel": "0"
+							}, {
+								"id": "silq30005003",
+								"panel": "0"
+							}, {
+								"id": "silq30005004",
+								"panel": "0"
+							}, {
+								"id": "silq30005005",
+								"panel": "0"
+							}, {
+								"id": "silq30005006",
+								"panel": "0"
+							}, {
+								"id": "silq30005007",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "SILQ STOOL ARMLESS PLASTIC BASE GLIDES",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "0000999.99",
+							"zone_id": "zone1"
+						}
+					}
+				}, {
+					"depth": "",
+					"height": "",
+					"id": "SILQSTLSSPBC",
+					"line_id": "line6",
+					"package": "1",
+					"pn": "SILQSTLSSPBC",
+					"type_id": "",
+					"vendor_id": "vendor01",
+					"volume": "",
+					"weight": "",
+					"width": "",
+					"CAD_FILES": {
+						"CAD": {
+							"cad_id": "AUTOCAD",
+							"offset1": "0",
+							"offset2": "0",
+							"offset3": "0",
+							"offset4": "0",
+							"offset5": "0",
+							"offset6": "0",
+							"CAD_FILE": [
+								{
+									"Text": "silqstlsspbc_2d.dwg",
+									"view_id": "view361"
+								}, {
+									"Text": "silqstlsspbc_3d.dwg",
+									"view_id": "view362"
+								}, {
+									"Text": "NOGRA.dwg",
+									"view_id": "view363"
+								}
+							]
+						}
+					},
+					"ITEM_GROUPS": {
+						"ITEM_GROUP": [
+							{
+								"id": "silq30005001",
+								"panel": "0"
+							}, {
+								"id": "silq30005002",
+								"panel": "0"
+							}, {
+								"id": "silq30005003",
+								"panel": "0"
+							}, {
+								"id": "silq30005004",
+								"panel": "0"
+							}, {
+								"id": "silq30005005",
+								"panel": "0"
+							}, {
+								"id": "silq30005006",
+								"panel": "0"
+							}, {
+								"id": "silq30005007",
+								"panel": "0"
+							}
+						]
+					},
+					"LONG_DESC": {
+						"TEXT": {
+							"Text": "SILQ STOOL ARMLESS PLASTIC BASE CASTERS",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"PRICES": {
+						"percent": "0",
+						"PRICE": {
+							"Text": "0000999.99",
+							"zone_id": "zone1"
+						}
+					}
+				}
+			]
+		},
+		"TABLE_OF_CONTENTS": {
+			"LEVEL": {
+				"level": "0",
+				"LABEL": {
+					"id": "label1",
+					"DESCRIPTIONS": {
+						"TEXT": {
+							"Text": "SLQ",
+							"lang_id": "lang0",
+							"measure_id": "meas0"
+						}
+					},
+					"LEVEL": {
+						"level": "1",
+						"LABEL": [
+							{
+								"id": "label2",
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"Text": "SILQ Chair Seating",
+										"lang_id": "lang0",
+										"measure_id": "meas0"
+									}
+								},
+								"LEVEL": {
+									"level": "2",
+									"LABEL": [
+										{
+											"id": "label3",
+											"DESCRIPTIONS": {
+												"TEXT": {
+													"Text": "SILQ Chair ARM",
+													"lang_id": "lang0",
+													"measure_id": "meas0"
+												}
+											},
+											"TOC_ITEMS": {
+												"TOC_ITEM": [
+													{
+														"id": "SILQCRARMABG"
+													}, {
+														"id": "SILQCRARMABC"
+													}, {
+														"id": "SILQCRARMPBG"
+													}, {
+														"id": "SILQCRARMPBC"
+													}
+												]
+											}
+										}, {
+											"id": "label4",
+											"DESCRIPTIONS": {
+												"TEXT": {
+													"Text": "SILQ Chair ARMLESS",
+													"lang_id": "lang0",
+													"measure_id": "meas0"
+												}
+											},
+											"TOC_ITEMS": {
+												"TOC_ITEM": [
+													{
+														"id": "SILQCRLSSABG"
+													}, {
+														"id": "SILQCRLSSABC"
+													}, {
+														"id": "SILQCRLSSPBG"
+													}, {
+														"id": "SILQCRLSSPBC"
+													}
+												]
+											}
+										}
+									]
+								}
+							}, {
+								"id": "label5",
+								"DESCRIPTIONS": {
+									"TEXT": {
+										"Text": "SILQ Stool Seating",
+										"lang_id": "lang0",
+										"measure_id": "meas0"
+									}
+								},
+								"LEVEL": {
+									"level": "2",
+									"LABEL": [
+										{
+											"id": "label6",
+											"DESCRIPTIONS": {
+												"TEXT": {
+													"Text": "SILQ Stool ARM",
+													"lang_id": "lang0",
+													"measure_id": "meas0"
+												}
+											},
+											"TOC_ITEMS": {
+												"TOC_ITEM": [
+													{
+														"id": "SILQSTARMABG"
+													}, {
+														"id": "SILQSTARMABC"
+													}, {
+														"id": "SILQSTARMPBG"
+													}, {
+														"id": "SILQSTARMPBC"
+													}
+												]
+											}
+										}, {
+											"id": "label7",
+											"DESCRIPTIONS": {
+												"TEXT": {
+													"Text": "SILQ Stool ARMLESS",
+													"lang_id": "lang0",
+													"measure_id": "meas0"
+												}
+											},
+											"TOC_ITEMS": {
+												"TOC_ITEM": [
+													{
+														"id": "SILQSTLSSABG"
+													}, {
+														"id": "SILQSTLSSABC"
+													}, {
+														"id": "SILQSTLSSPBG"
+													}, {
+														"id": "SILQSTLSSPBC"
+													}
+												]
+											}
+										}
+									]
+								}
+							}
+						]
+					}
+				}
+			}
+		}
+	}
+}
